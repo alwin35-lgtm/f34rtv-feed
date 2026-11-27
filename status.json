@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Phoenix",
-      "callAt": 1795819163000,
+      "callCity": "San Diego",
+      "callAt": 1795819172000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795819156000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795819163000,
+      "lastPostAt": 1795819172000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 28,
+      "callsToday": 29,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -490,7 +490,7 @@
         0,
         0,
         0,
-        16,
+        17,
         0,
         0,
         0,
@@ -778,10 +778,16 @@
         "call": "75\u00b0 to 76\u00b0",
         "resolved": false,
         "correct": null
+      },
+      {
+        "name": "San Diego",
+        "call": "75\u00b0 or below",
+        "resolved": false,
+        "correct": null
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 28,
+    "postedToday": 29,
     "cityResults": [
       {
         "city": "Los Angeles",
