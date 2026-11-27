@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T21:00:16.302126Z",
-  "generatedAtMs": 1795813216302,
+  "generatedAt": "2026-11-27T21:00:22.025625Z",
+  "generatedAtMs": 1795813222025,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T21:00:16.302126Z",
-      "lastActiveMs": 1795813216302,
+      "lastActive": "2026-11-27T21:00:22.025625Z",
+      "lastActiveMs": 1795813222025,
       "events24h": 15,
       "runLive": true,
       "callingNow": false,
@@ -109,10 +109,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 126,
+        "wins": 127,
         "losses": 37,
-        "lastResult": "loss",
-        "lastResultAt": 1795812322365
+        "lastResult": "win",
+        "lastResultAt": 1795813221904
       },
       "lastPostAt": 1795812900647,
       "noTrade": {
@@ -152,7 +152,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795812900654,
+      "heartbeatAt": 1795813221925,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T21:00:16.302126Z",
-      "lastActiveMs": 1795813216302,
+      "lastActive": "2026-11-27T21:00:22.025625Z",
+      "lastActiveMs": 1795813222025,
       "events24h": 15,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T21:00:16.302126Z",
-      "lastActiveMs": 1795813216302,
+      "lastActive": "2026-11-27T21:00:22.025625Z",
+      "lastActiveMs": 1795813222025,
       "events24h": 15,
       "runLive": true,
       "callingNow": false,
@@ -247,17 +247,17 @@
       "lastSender": "sol",
       "kind": "desk",
       "score": {
-        "wins": 125,
+        "wins": 126,
         "losses": 36,
         "lastResult": "win",
-        "lastResultAt": 1795812339355
+        "lastResultAt": 1795813221900
       },
       "lastPostAt": 1795812900640,
       "noTrade": {
         "count": 62,
         "rate": 54.9
       },
-      "accuracy20": 75.0,
+      "accuracy20": 80.0,
       "callsToday": 15,
       "missed24h": 80,
       "eventsByHour": [
@@ -290,7 +290,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795812900650,
+      "heartbeatAt": 1795813221923,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T21:00:16.302126Z",
-      "lastActiveMs": 1795813216302,
+      "lastActive": "2026-11-27T21:00:22.025625Z",
+      "lastActiveMs": 1795813222025,
       "events24h": 15,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T21:00:16.302126Z",
-      "lastActiveMs": 1795813216302,
+      "lastActive": "2026-11-27T21:00:22.025625Z",
+      "lastActiveMs": 1795813222025,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T21:00:16.302126Z",
-      "lastActiveMs": 1795813216302,
+      "lastActive": "2026-11-27T21:00:22.025625Z",
+      "lastActiveMs": 1795813222025,
       "events24h": 12,
       "runLive": true,
       "callingNow": false,
@@ -502,6 +502,20 @@
   ],
   "ticker": [
     {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795813221904,
+      "label": "Result settled"
+    },
+    {
+      "name": "SOL 15 Min",
+      "cluster": "Solana",
+      "sender": "system",
+      "at": 1795813221900,
+      "label": "Result settled"
+    },
+    {
       "name": "ETH 15 Min",
       "cluster": "Ethereum",
       "sender": "bot",
@@ -537,24 +551,10 @@
       "label": "Result settled"
     },
     {
-      "name": "SOL 15 Min",
-      "cluster": "Solana",
-      "sender": "system",
-      "at": 1795812339355,
-      "label": "Result settled"
-    },
-    {
       "name": "XRP 15 Min",
       "cluster": "XRP",
       "sender": "system",
       "at": 1795812334931,
-      "label": "Result settled"
-    },
-    {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
-      "sender": "system",
-      "at": 1795812322365,
       "label": "Result settled"
     },
     {
@@ -951,8 +951,8 @@
     "streaks": {
       "BTC 15 Min": {
         "current": 1,
-        "kind": "loss",
-        "bestWins": 12,
+        "kind": "win",
+        "bestWins": 13,
         "bestDay": "2026-11-27",
         "bestNightWins": 1,
         "bestNightDay": "2026-11-25"
@@ -966,9 +966,9 @@
         "bestNightDay": "2026-11-25"
       },
       "SOL 15 Min": {
-        "current": 10,
+        "current": 11,
         "kind": "win",
-        "bestWins": 12,
+        "bestWins": 13,
         "bestDay": "2026-11-27",
         "bestNightWins": 3,
         "bestNightDay": "2026-11-25"
