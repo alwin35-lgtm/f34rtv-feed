@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T18:40:16.316814Z",
-  "generatedAtMs": 1795804816316,
+  "generatedAt": "2026-11-27T18:41:56.072761Z",
+  "generatedAtMs": 1795804916072,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:40:16.316814Z",
-      "lastActiveMs": 1795804816316,
+      "lastActive": "2026-11-27T18:41:56.072761Z",
+      "lastActiveMs": 1795804916072,
       "events24h": 6,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:40:16.316814Z",
-      "lastActiveMs": 1795804816316,
+      "lastActive": "2026-11-27T18:41:56.072761Z",
+      "lastActiveMs": 1795804916072,
       "events24h": 6,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:40:16.316814Z",
-      "lastActiveMs": 1795804816316,
+      "lastActive": "2026-11-27T18:41:56.072761Z",
+      "lastActiveMs": 1795804916072,
       "events24h": 6,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:40:16.316814Z",
-      "lastActiveMs": 1795804816316,
+      "lastActive": "2026-11-27T18:41:56.072761Z",
+      "lastActiveMs": 1795804916072,
       "events24h": 6,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T18:40:16.316814Z",
-      "lastActiveMs": 1795804816316,
+      "lastActive": "2026-11-27T18:41:56.072761Z",
+      "lastActiveMs": 1795804916072,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T18:40:16.316814Z",
-      "lastActiveMs": 1795804816316,
+      "lastActive": "2026-11-27T18:41:56.072761Z",
+      "lastActiveMs": 1795804916072,
       "events24h": 12,
       "runLive": true,
       "callingNow": false,
@@ -837,11 +837,11 @@
     "mentionsToday": 0
   },
   "deploy": {
-    "uid": "dpl_5upgXCj7imQhbkpVvwtsB61Rq7or",
+    "uid": "dpl_HsGKSZgH6D4prw7EaFjeoeyomfXH",
     "state": "READY",
     "target": "production",
     "url": "https://f34rtv.vercel.app",
-    "checkedAt": 1795800158055
+    "checkedAt": 1795804844129
   },
   "community": {
     "capturedAt": "2026-11-27T18:30:00Z",
