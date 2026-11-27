@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T14:00:16.299193Z",
-  "generatedAtMs": 1795788016299,
+  "generatedAt": "2026-11-27T14:00:24.476373Z",
+  "generatedAtMs": 1795788024476,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:00:16.299193Z",
-      "lastActiveMs": 1795788016299,
+      "lastActive": "2026-11-27T14:00:24.476373Z",
+      "lastActiveMs": 1795788024476,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:00:16.299193Z",
-      "lastActiveMs": 1795788016299,
+      "lastActive": "2026-11-27T14:00:24.476373Z",
+      "lastActiveMs": 1795788024476,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:00:16.299193Z",
-      "lastActiveMs": 1795788016299,
+      "lastActive": "2026-11-27T14:00:24.476373Z",
+      "lastActiveMs": 1795788024476,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -247,10 +247,10 @@
       "lastSender": "sol",
       "kind": "desk",
       "score": {
-        "wins": 102,
+        "wins": 103,
         "losses": 31,
         "lastResult": "win",
-        "lastResultAt": 1795787140901
+        "lastResultAt": 1795788024332
       },
       "lastPostAt": 1795658114574,
       "noTrade": {
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:00:16.299193Z",
-      "lastActiveMs": 1795788016299,
+      "lastActive": "2026-11-27T14:00:24.476373Z",
+      "lastActiveMs": 1795788024476,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T14:00:16.299193Z",
-      "lastActiveMs": 1795788016299,
+      "lastActive": "2026-11-27T14:00:24.476373Z",
+      "lastActiveMs": 1795788024476,
       "events24h": 26,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T14:00:16.299193Z",
-      "lastActiveMs": 1795788016299,
+      "lastActive": "2026-11-27T14:00:24.476373Z",
+      "lastActiveMs": 1795788024476,
       "events24h": 0,
       "runLive": true,
       "callingNow": true,
@@ -457,7 +457,7 @@
       "callCity": "NYC",
       "callAt": 1795788020000,
       "lastError": null,
-      "lastErrorAt": null,
+      "lastErrorAt": 0,
       "heartbeatAt": 0,
       "heartbeatState": null,
       "lastMessageUrl": null,
@@ -470,9 +470,14 @@
         "rate": 0.0
       },
       "accuracy20": 29.4,
-      "callsToday": 8,
+      "callsToday": 14,
       "missed24h": 0,
       "eventsByHour": [
+        2,
+        4,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -491,11 +496,6 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
         0
       ]
     }
@@ -505,7 +505,7 @@
       "name": "SOL 15 Min",
       "cluster": "Solana",
       "sender": "system",
-      "at": 1795787140901,
+      "at": 1795788024332,
       "label": "Result settled"
     },
     {
