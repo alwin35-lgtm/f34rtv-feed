@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "San Antonio",
-      "callAt": 1795819180000,
+      "callCity": "Louisville",
+      "callAt": 1795819189000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795819156000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795819180000,
+      "lastPostAt": 1795819189000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 30,
+      "callsToday": 31,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -490,7 +490,7 @@
         0,
         0,
         0,
-        18,
+        19,
         0,
         0,
         0,
@@ -790,10 +790,16 @@
         "call": "70\u00b0 to 71\u00b0",
         "resolved": false,
         "correct": null
+      },
+      {
+        "name": "Louisville",
+        "call": "54\u00b0 to 55\u00b0",
+        "resolved": false,
+        "correct": null
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 30,
+    "postedToday": 31,
     "cityResults": [
       {
         "city": "Los Angeles",
