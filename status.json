@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T16:15:24.328451Z",
-  "generatedAtMs": 1795796124328,
+  "generatedAt": "2026-11-27T16:15:40.323512Z",
+  "generatedAtMs": 1795796140323,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T16:15:24.328451Z",
-      "lastActiveMs": 1795796124328,
+      "lastActive": "2026-11-27T16:15:40.323512Z",
+      "lastActiveMs": 1795796140323,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T16:15:24.328451Z",
-      "lastActiveMs": 1795796124328,
+      "lastActive": "2026-11-27T16:15:40.323512Z",
+      "lastActiveMs": 1795796140323,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T16:15:24.328451Z",
-      "lastActiveMs": 1795796124328,
+      "lastActive": "2026-11-27T16:15:40.323512Z",
+      "lastActiveMs": 1795796140323,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T16:15:24.328451Z",
-      "lastActiveMs": 1795796124328,
+      "lastActive": "2026-11-27T16:15:40.323512Z",
+      "lastActiveMs": 1795796140323,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -316,10 +316,10 @@
       "lastSender": "xrp",
       "kind": "desk",
       "score": {
-        "wins": 114,
+        "wins": 115,
         "losses": 28,
         "lastResult": "win",
-        "lastResultAt": 1795795224368
+        "lastResultAt": 1795796140180
       },
       "lastPostAt": 1795657211164,
       "noTrade": {
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T16:15:24.328451Z",
-      "lastActiveMs": 1795796124328,
+      "lastActive": "2026-11-27T16:15:40.323512Z",
+      "lastActiveMs": 1795796140323,
       "events24h": 26,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T16:15:24.328451Z",
-      "lastActiveMs": 1795796124328,
+      "lastActive": "2026-11-27T16:15:40.323512Z",
+      "lastActiveMs": 1795796140323,
       "events24h": 0,
       "runLive": true,
       "callingNow": true,
@@ -502,6 +502,13 @@
   ],
   "ticker": [
     {
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
+      "sender": "system",
+      "at": 1795796140180,
+      "label": "Result settled"
+    },
+    {
       "name": "BTC 15 Min",
       "cluster": "Bitcoin",
       "sender": "system",
@@ -513,13 +520,6 @@
       "cluster": "Ethereum",
       "sender": "system",
       "at": 1795795236505,
-      "label": "Result settled"
-    },
-    {
-      "name": "XRP 15 Min",
-      "cluster": "XRP",
-      "sender": "system",
-      "at": 1795795224368,
       "label": "Result settled"
     },
     {
