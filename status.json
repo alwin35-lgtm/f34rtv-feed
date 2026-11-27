@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Oklahoma City",
-      "callAt": 1795819154000,
+      "callCity": "Phoenix",
+      "callAt": 1795819163000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795819156000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795819154000,
+      "lastPostAt": 1795819163000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 27,
+      "callsToday": 28,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -490,7 +490,7 @@
         0,
         0,
         0,
-        15,
+        16,
         0,
         0,
         0,
@@ -772,10 +772,16 @@
         "call": "61\u00b0 to 62\u00b0",
         "resolved": false,
         "correct": null
+      },
+      {
+        "name": "Phoenix",
+        "call": "75\u00b0 to 76\u00b0",
+        "resolved": false,
+        "correct": null
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 27,
+    "postedToday": 28,
     "cityResults": [
       {
         "city": "Los Angeles",
