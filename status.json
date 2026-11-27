@@ -1,0 +1,868 @@
+{
+  "generatedAt": "2026-11-27T12:10:16.297036Z",
+  "generatedAtMs": 1795781416297,
+  "theme": "Markets",
+  "themeHub": {
+    "x": 0.5,
+    "y": 0.22
+  },
+  "clusters": [
+    {
+      "name": "Bitcoin",
+      "theme": "Markets",
+      "label": "Bitcoin",
+      "short": "BTC",
+      "color": "#f5a524",
+      "hue": 32,
+      "kind": "desk",
+      "hub": {
+        "x": 0.3,
+        "y": 0.44
+      }
+    },
+    {
+      "name": "Ethereum",
+      "theme": "Markets",
+      "label": "Ethereum",
+      "short": "ETH",
+      "color": "#7aa2ff",
+      "hue": 226,
+      "kind": "desk",
+      "hub": {
+        "x": 0.7,
+        "y": 0.44
+      }
+    },
+    {
+      "name": "Solana",
+      "theme": "Markets",
+      "label": "Solana",
+      "short": "SOL",
+      "color": "#3eecc0",
+      "hue": 165,
+      "kind": "desk",
+      "hub": {
+        "x": 0.5,
+        "y": 0.44
+      }
+    },
+    {
+      "name": "XRP",
+      "theme": "Markets",
+      "label": "XRP",
+      "short": "XRP",
+      "color": "#d6e2ee",
+      "hue": 210,
+      "kind": "desk",
+      "hub": {
+        "x": 0.4,
+        "y": 0.44
+      }
+    },
+    {
+      "name": "Supervisor",
+      "theme": "Markets",
+      "label": "Supervisor",
+      "short": "Supervisor",
+      "color": "#c43c3c",
+      "hue": 0,
+      "kind": "supervisor",
+      "hub": {
+        "x": 0.5,
+        "y": 0.32
+      }
+    },
+    {
+      "name": "Weather",
+      "theme": "Weather",
+      "label": "Weather",
+      "short": "WX",
+      "color": "#5ec8ff",
+      "hue": 198,
+      "kind": "desk",
+      "level": 1,
+      "hub": {
+        "x": 0.5,
+        "y": 0.2
+      }
+    }
+  ],
+  "bots": [
+    {
+      "id": "c6707f9c-e5bc-4e23-951f-5ac2598fd486",
+      "name": "BTC 15 Min",
+      "short": "BTC",
+      "cluster": "Bitcoin",
+      "theme": "Markets",
+      "role": "Tracks 15-minute Bitcoin market activity.",
+      "color": "#f5a524",
+      "position": {
+        "x": 0.35,
+        "y": 0.68
+      },
+      "lastActive": "2026-11-27T12:10:16.297036Z",
+      "lastActiveMs": 1795781416297,
+      "events24h": 0,
+      "runLive": true,
+      "callingNow": false,
+      "doingNow": "Running live",
+      "lastSender": "appu",
+      "kind": "desk",
+      "score": {
+        "wins": 100,
+        "losses": 28,
+        "lastResult": "win",
+        "lastResultAt": 1795780828790
+      },
+      "lastPostAt": 1795656311905,
+      "noTrade": {
+        "count": 73,
+        "rate": 76.0
+      },
+      "accuracy20": 40.0,
+      "callsToday": 0,
+      "missed24h": 95,
+      "eventsByHour": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "lastMessageUrl": "channel 1574614566778966057 / message 1575321490847703041",
+      "alert": null,
+      "lastError": null,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795656311904,
+      "heartbeatState": "posted",
+      "webhookQuarantined": false,
+      "stale": true
+    },
+    {
+      "id": "c6987f43-6f1d-4881-a7c0-b09dd99ca96a",
+      "name": "ETH 15 Min",
+      "short": "ETH",
+      "cluster": "Ethereum",
+      "theme": "Markets",
+      "role": "Tracks 15-minute Ethereum market activity.",
+      "color": "#7aa2ff",
+      "position": {
+        "x": 0.65,
+        "y": 0.68
+      },
+      "lastActive": "2026-11-27T12:10:16.297036Z",
+      "lastActiveMs": 1795781416297,
+      "events24h": 0,
+      "runLive": true,
+      "callingNow": false,
+      "doingNow": "Running live",
+      "lastSender": "appu",
+      "kind": "desk",
+      "score": {
+        "wins": 94,
+        "losses": 33,
+        "lastResult": "win",
+        "lastResultAt": 1795780841658
+      },
+      "lastPostAt": 1795657214739,
+      "noTrade": {
+        "count": 71,
+        "rate": 74.0
+      },
+      "accuracy20": 50.0,
+      "callsToday": 0,
+      "missed24h": 95,
+      "eventsByHour": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "lastMessageUrl": "channel 1574652048866148352 / message 1575325263796109462",
+      "alert": null,
+      "lastError": null,
+      "lastErrorAt": 1795655410976,
+      "heartbeatAt": 1795658479555,
+      "heartbeatState": "skipped",
+      "webhookQuarantined": false,
+      "stale": true
+    },
+    {
+      "id": "5cba0fb2-765d-4cc2-aadb-acce08f5e3fb",
+      "name": "SOL 15 Min",
+      "short": "SOL",
+      "cluster": "Solana",
+      "theme": "Markets",
+      "role": "Tracks 15-minute Solana market activity.",
+      "color": "#3eecc0",
+      "position": {
+        "x": 0.5,
+        "y": 0.68
+      },
+      "lastActive": "2026-11-27T12:10:16.297036Z",
+      "lastActiveMs": 1795781416297,
+      "events24h": 0,
+      "runLive": true,
+      "callingNow": false,
+      "doingNow": "Running live",
+      "lastSender": "sol",
+      "kind": "desk",
+      "score": {
+        "wins": 98,
+        "losses": 28,
+        "lastResult": "win",
+        "lastResultAt": 1795780842537
+      },
+      "lastPostAt": 1795658114574,
+      "noTrade": {
+        "count": 62,
+        "rate": 63.3
+      },
+      "accuracy20": 45.0,
+      "callsToday": 0,
+      "missed24h": 95,
+      "eventsByHour": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "lastMessageUrl": "channel 1574653818895859723 / message 1575329052431220798",
+      "alert": null,
+      "lastError": null,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795658114573,
+      "heartbeatState": "posted",
+      "webhookQuarantined": false,
+      "stale": true
+    },
+    {
+      "id": "a7f2c1d8-4b93-4e6a-9c15-2e8b0d7f3a64",
+      "name": "XRP 15 Min",
+      "short": "XRP",
+      "cluster": "XRP",
+      "theme": "Markets",
+      "role": "Tracks 15-minute XRP market activity.",
+      "color": "#d6e2ee",
+      "position": {
+        "x": 0.4,
+        "y": 0.68
+      },
+      "lastActive": "2026-11-27T12:10:16.297036Z",
+      "lastActiveMs": 1795781416297,
+      "events24h": 0,
+      "runLive": true,
+      "callingNow": false,
+      "doingNow": "Running live",
+      "lastSender": "xrp",
+      "kind": "desk",
+      "score": {
+        "wins": 100,
+        "losses": 26,
+        "lastResult": "win",
+        "lastResultAt": 1795780842434
+      },
+      "lastPostAt": 1795657211164,
+      "noTrade": {
+        "count": 66,
+        "rate": 68.8
+      },
+      "accuracy20": 65.0,
+      "callsToday": 0,
+      "missed24h": 95,
+      "eventsByHour": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "lastMessageUrl": "channel 1574801050634813560 / message 1575325262709657683",
+      "alert": null,
+      "lastError": null,
+      "lastErrorAt": 1795652711159,
+      "heartbeatAt": 1795658445796,
+      "heartbeatState": "skipped",
+      "webhookQuarantined": false,
+      "stale": true
+    },
+    {
+      "id": "d11e7b0e-3550-4cce-a30a-452f847ac41a",
+      "name": "Market Supervisor",
+      "short": "Supervisor",
+      "cluster": "Supervisor",
+      "theme": "Markets",
+      "role": "Oversees the 15-Min BTC, ETH, SOL and XRP market bots during their evening runs.",
+      "color": "#c43c3c",
+      "position": {
+        "x": 0.5,
+        "y": 0.25
+      },
+      "lastActive": "2026-11-27T12:10:16.297036Z",
+      "lastActiveMs": 1795781416297,
+      "events24h": 26,
+      "runLive": true,
+      "callingNow": false,
+      "doingNow": "Patrolling the floor",
+      "lastSender": "supervisor",
+      "kind": "supervisor",
+      "score": null,
+      "lastError": null,
+      "lastErrorAt": 0,
+      "heartbeatAt": 0,
+      "heartbeatState": null,
+      "lastMessageUrl": null,
+      "webhookQuarantined": false,
+      "stale": false,
+      "alert": null,
+      "lastPostAt": 0,
+      "noTrade": {
+        "count": 0,
+        "rate": 0.0
+      },
+      "accuracy20": null,
+      "callsToday": 0,
+      "missed24h": 0,
+      "eventsByHour": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "3d06bd17-e692-5541-bbac-67ce903002bf",
+      "name": "Weather Scanner",
+      "short": "WX",
+      "cluster": "Weather",
+      "theme": "Weather",
+      "role": "Tracks daily Polymarket weather high-temperature calls across 18 cities.",
+      "color": "#5ec8ff",
+      "position": {
+        "x": 0.5,
+        "y": 0.2
+      },
+      "lastActive": "2026-11-27T12:10:16.297036Z",
+      "lastActiveMs": 1795781416297,
+      "events24h": 0,
+      "runLive": true,
+      "callingNow": true,
+      "doingNow": "Running live",
+      "lastSender": "weather",
+      "kind": "desk",
+      "score": {
+        "wins": 0,
+        "losses": 0,
+        "lastResult": null,
+        "lastResultAt": null
+      },
+      "callCity": "Buenos Aires",
+      "callAt": 1795780805000,
+      "lastError": null,
+      "lastErrorAt": 0,
+      "heartbeatAt": 0,
+      "heartbeatState": null,
+      "lastMessageUrl": null,
+      "webhookQuarantined": false,
+      "stale": false,
+      "alert": null,
+      "lastPostAt": 0,
+      "noTrade": {
+        "count": 0,
+        "rate": 0.0
+      },
+      "accuracy20": null,
+      "callsToday": 0,
+      "missed24h": 0,
+      "eventsByHour": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "ticker": [
+    {
+      "name": "SOL 15 Min",
+      "cluster": "Solana",
+      "sender": "system",
+      "at": 1795780842537,
+      "label": "Result settled"
+    },
+    {
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
+      "sender": "system",
+      "at": 1795780842434,
+      "label": "Result settled"
+    },
+    {
+      "name": "ETH 15 Min",
+      "cluster": "Ethereum",
+      "sender": "system",
+      "at": 1795780841658,
+      "label": "Result settled"
+    },
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795780828790,
+      "label": "Result settled"
+    },
+    {
+      "name": "SOL 15 Min",
+      "cluster": "Solana",
+      "sender": "bot",
+      "at": 1795658114574,
+      "label": "Call posted"
+    },
+    {
+      "name": "ETH 15 Min",
+      "cluster": "Ethereum",
+      "sender": "bot",
+      "at": 1795657214739,
+      "label": "Call posted"
+    },
+    {
+      "name": "SOL 15 Min",
+      "cluster": "Solana",
+      "sender": "bot",
+      "at": 1795657211585,
+      "label": "Call posted"
+    },
+    {
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
+      "sender": "bot",
+      "at": 1795657211164,
+      "label": "Call posted"
+    },
+    {
+      "name": "ETH 15 Min",
+      "cluster": "Ethereum",
+      "sender": "bot",
+      "at": 1795656317324,
+      "label": "Call posted"
+    }
+  ],
+  "stats": {
+    "botCount": 6,
+    "working": 6,
+    "active10m": 1,
+    "active24h": 1,
+    "events24h": 26
+  },
+  "schema": 2,
+  "weather": {
+    "cities": [
+      {
+        "name": "Los Angeles",
+        "call": "76\u201377\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Seoul",
+        "call": "57.2\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Tokyo",
+        "call": "57.2\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Hong Kong",
+        "call": "71.6\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Shanghai",
+        "call": "66.2\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Beijing",
+        "call": "50\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Singapore",
+        "call": "87.8\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Paris",
+        "call": "42.8\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Munich",
+        "call": "41\u00b0F or below",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Madrid",
+        "call": "51.8\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Warsaw",
+        "call": "42.8\u00b0F or below",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Milan",
+        "call": "48.2\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "London",
+        "call": "42.8\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "NYC",
+        "call": "58\u201359\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Atlanta",
+        "call": "52\u201353\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Toronto",
+        "call": "41\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Chicago",
+        "call": "44\u201345\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Los Angeles",
+        "call": "80\u201381\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Buenos Aires",
+        "call": "78.8\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Seoul",
+        "call": "57.2\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Hong Kong",
+        "call": "80.6\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Paris",
+        "call": "4\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Munich",
+        "call": "0\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Madrid",
+        "call": "11\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Warsaw",
+        "call": "1\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Milan",
+        "call": "9\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "London",
+        "call": "6\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Buenos Aires",
+        "call": "34\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "NYC",
+        "call": "56-57\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Atlanta",
+        "call": "50-51\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Toronto",
+        "call": "4\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Chicago",
+        "call": "44-45\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Los Angeles",
+        "call": "80-81\u00b0F",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Seoul",
+        "call": "10\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Tokyo",
+        "call": "21\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Hong Kong",
+        "call": "26\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Shanghai",
+        "call": "16\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Beijing",
+        "call": "10\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Singapore",
+        "call": "31\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Paris",
+        "call": "5\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Munich",
+        "call": "0\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Madrid",
+        "call": "11\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Warsaw",
+        "call": "-1\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Milan",
+        "call": "9\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "London",
+        "call": "12\u00b0C",
+        "resolved": false,
+        "correct": null
+      },
+      {
+        "name": "Buenos Aires",
+        "call": "35\u00b0C",
+        "resolved": false,
+        "correct": null
+      }
+    ],
+    "accuracy": 0,
+    "postedToday": 7
+  },
+  "assistant": {
+    "mentionsToday": 0
+  },
+  "deploy": {
+    "uid": "dpl_Ahk4q3pWvcv8MU7Sd4FGsSHXJvU3",
+    "state": "READY",
+    "target": "production",
+    "url": "https://f34rtv.vercel.app",
+    "checkedAt": 1795655208685
+  }
+}
