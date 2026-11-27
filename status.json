@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T17:15:40.804022Z",
-  "generatedAtMs": 1795799740804,
+  "generatedAt": "2026-11-27T17:17:16.321442Z",
+  "generatedAtMs": 1795799836321,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:15:40.804022Z",
-      "lastActiveMs": 1795799740804,
+      "lastActive": "2026-11-27T17:17:16.321442Z",
+      "lastActiveMs": 1795799836321,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:15:40.804022Z",
-      "lastActiveMs": 1795799740804,
+      "lastActive": "2026-11-27T17:17:16.321442Z",
+      "lastActiveMs": 1795799836321,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:15:40.804022Z",
-      "lastActiveMs": 1795799740804,
+      "lastActive": "2026-11-27T17:17:16.321442Z",
+      "lastActiveMs": 1795799836321,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:15:40.804022Z",
-      "lastActiveMs": 1795799740804,
+      "lastActive": "2026-11-27T17:17:16.321442Z",
+      "lastActiveMs": 1795799836321,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T17:15:40.804022Z",
-      "lastActiveMs": 1795799740804,
+      "lastActive": "2026-11-27T17:17:16.321442Z",
+      "lastActiveMs": 1795799836321,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T17:15:40.804022Z",
-      "lastActiveMs": 1795799740804,
+      "lastActive": "2026-11-27T17:17:16.321442Z",
+      "lastActiveMs": 1795799836321,
       "events24h": 12,
       "runLive": true,
       "callingNow": false,
@@ -459,7 +459,7 @@
       "lastError": null,
       "lastErrorAt": 0,
       "heartbeatAt": 1795799406000,
-      "heartbeatState": null,
+      "heartbeatState": "idle",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
@@ -577,199 +577,7 @@
     "cities": [
       {
         "name": "Los Angeles",
-        "call": "76\u201377\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Seoul",
-        "call": "57.2\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Tokyo",
-        "call": "57.2\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Hong Kong",
-        "call": "71.6\u00b0F",
-        "resolved": true,
-        "correct": true
-      },
-      {
-        "name": "Shanghai",
-        "call": "66.2\u00b0F",
-        "resolved": true,
-        "correct": true
-      },
-      {
-        "name": "Beijing",
-        "call": "50\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Singapore",
-        "call": "87.8\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Paris",
-        "call": "42.8\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Munich",
-        "call": "41\u00b0F or below",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Madrid",
-        "call": "51.8\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Warsaw",
-        "call": "42.8\u00b0F or below",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Milan",
-        "call": "48.2\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "London",
-        "call": "42.8\u00b0F",
-        "resolved": true,
-        "correct": true
-      },
-      {
-        "name": "NYC",
-        "call": "58\u201359\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Atlanta",
-        "call": "52\u201353\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Toronto",
-        "call": "41\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Chicago",
-        "call": "44\u201345\u00b0F",
-        "resolved": true,
-        "correct": true
-      },
-      {
-        "name": "Los Angeles",
-        "call": "80\u201381\u00b0F",
-        "resolved": true,
-        "correct": true
-      },
-      {
-        "name": "Buenos Aires",
-        "call": "78.8\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Seoul",
-        "call": "57.2\u00b0F",
-        "resolved": true,
-        "correct": false
-      },
-      {
-        "name": "Hong Kong",
-        "call": "80.6\u00b0F",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Paris",
-        "call": "4\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Munich",
-        "call": "0\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Madrid",
-        "call": "11\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Warsaw",
-        "call": "1\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Milan",
-        "call": "9\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "London",
-        "call": "6\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Buenos Aires",
-        "call": "34\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "NYC",
-        "call": "56-57\u00b0F",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Atlanta",
-        "call": "50-51\u00b0F",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Toronto",
-        "call": "4\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Chicago",
-        "call": "44-45\u00b0F",
-        "resolved": false,
-        "correct": null
-      },
-      {
-        "name": "Los Angeles",
-        "call": "80-81\u00b0F",
+        "call": "74-75\u00b0F",
         "resolved": false,
         "correct": null
       },
@@ -846,12 +654,6 @@
         "correct": null
       },
       {
-        "name": "Buenos Aires",
-        "call": "35\u00b0C",
-        "resolved": false,
-        "correct": null
-      },
-      {
         "name": "NYC",
         "call": "52-53\u00b0F",
         "resolved": false,
@@ -876,8 +678,8 @@
         "correct": null
       },
       {
-        "name": "Los Angeles",
-        "call": "74-75\u00b0F",
+        "name": "Buenos Aires",
+        "call": "35\u00b0C",
         "resolved": false,
         "correct": null
       }
