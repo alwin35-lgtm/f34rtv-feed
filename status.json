@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T12:45:22.948621Z",
-  "generatedAtMs": 1795783522948,
+  "generatedAt": "2026-11-27T12:46:16.325029Z",
+  "generatedAtMs": 1795783576325,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T12:45:22.948621Z",
-      "lastActiveMs": 1795783522948,
+      "lastActive": "2026-11-27T12:46:16.325029Z",
+      "lastActiveMs": 1795783576325,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T12:45:22.948621Z",
-      "lastActiveMs": 1795783522948,
+      "lastActive": "2026-11-27T12:46:16.325029Z",
+      "lastActiveMs": 1795783576325,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -178,10 +178,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 95,
+        "wins": 96,
         "losses": 34,
         "lastResult": "win",
-        "lastResultAt": 1795782632453
+        "lastResultAt": 1795783523454
       },
       "lastPostAt": 1795657214739,
       "noTrade": {
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T12:45:22.948621Z",
-      "lastActiveMs": 1795783522948,
+      "lastActive": "2026-11-27T12:46:16.325029Z",
+      "lastActiveMs": 1795783576325,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -248,9 +248,9 @@
       "kind": "desk",
       "score": {
         "wins": 100,
-        "losses": 28,
-        "lastResult": "win",
-        "lastResultAt": 1795782648669
+        "losses": 29,
+        "lastResult": "loss",
+        "lastResultAt": 1795783523869
       },
       "lastPostAt": 1795658114574,
       "noTrade": {
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T12:45:22.948621Z",
-      "lastActiveMs": 1795783522948,
+      "lastActive": "2026-11-27T12:46:16.325029Z",
+      "lastActiveMs": 1795783576325,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -316,10 +316,10 @@
       "lastSender": "xrp",
       "kind": "desk",
       "score": {
-        "wins": 102,
+        "wins": 103,
         "losses": 26,
         "lastResult": "win",
-        "lastResultAt": 1795782649144
+        "lastResultAt": 1795783524025
       },
       "lastPostAt": 1795657211164,
       "noTrade": {
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T12:45:22.948621Z",
-      "lastActiveMs": 1795783522948,
+      "lastActive": "2026-11-27T12:46:16.325029Z",
+      "lastActiveMs": 1795783576325,
       "events24h": 26,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T12:45:22.948621Z",
-      "lastActiveMs": 1795783522948,
+      "lastActive": "2026-11-27T12:46:16.325029Z",
+      "lastActiveMs": 1795783576325,
       "events24h": 0,
       "runLive": true,
       "callingNow": true,
@@ -502,31 +502,31 @@
   ],
   "ticker": [
     {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
-      "sender": "system",
-      "at": 1795783522852,
-      "label": "Result settled"
-    },
-    {
       "name": "XRP 15 Min",
       "cluster": "XRP",
       "sender": "system",
-      "at": 1795782649144,
+      "at": 1795783524025,
       "label": "Result settled"
     },
     {
       "name": "SOL 15 Min",
       "cluster": "Solana",
       "sender": "system",
-      "at": 1795782648669,
+      "at": 1795783523869,
       "label": "Result settled"
     },
     {
       "name": "ETH 15 Min",
       "cluster": "Ethereum",
       "sender": "system",
-      "at": 1795782632453,
+      "at": 1795783523454,
+      "label": "Result settled"
+    },
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795783522852,
       "label": "Result settled"
     },
     {
