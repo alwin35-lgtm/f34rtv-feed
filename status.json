@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T22:35:16.304506Z",
-  "generatedAtMs": 1795818916304,
+  "generatedAt": "2026-11-27T22:36:16.329171Z",
+  "generatedAtMs": 1795818976329,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T22:35:16.304506Z",
-      "lastActiveMs": 1795818916304,
+      "lastActive": "2026-11-27T22:36:16.329171Z",
+      "lastActiveMs": 1795818976329,
       "events24h": 21,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T22:35:16.304506Z",
-      "lastActiveMs": 1795818916304,
+      "lastActive": "2026-11-27T22:36:16.329171Z",
+      "lastActiveMs": 1795818976329,
       "events24h": 21,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T22:35:16.304506Z",
-      "lastActiveMs": 1795818916304,
+      "lastActive": "2026-11-27T22:36:16.329171Z",
+      "lastActiveMs": 1795818976329,
       "events24h": 21,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T22:35:16.304506Z",
-      "lastActiveMs": 1795818916304,
+      "lastActive": "2026-11-27T22:36:16.329171Z",
+      "lastActiveMs": 1795818976329,
       "events24h": 21,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T22:35:16.304506Z",
-      "lastActiveMs": 1795818916304,
+      "lastActive": "2026-11-27T22:36:16.329171Z",
+      "lastActiveMs": 1795818976329,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,11 +440,11 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T22:35:16.304506Z",
-      "lastActiveMs": 1795818916304,
+      "lastActive": "2026-11-27T22:36:16.329171Z",
+      "lastActiveMs": 1795818976329,
       "events24h": 12,
       "runLive": true,
-      "callingNow": false,
+      "callingNow": true,
       "doingNow": "Running live",
       "lastSender": "weather",
       "kind": "desk",
@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Los Angeles",
-      "callAt": 1795798811000,
+      "callCity": "Austin",
+      "callAt": 1795819009000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795817407000,
       "heartbeatState": "idle",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795798811000,
+      "lastPostAt": 1795819009000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 12,
+      "callsToday": 13,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -490,7 +490,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,
@@ -682,10 +682,16 @@
         "call": "35\u00b0C",
         "resolved": false,
         "correct": null
+      },
+      {
+        "name": "Austin",
+        "call": "73\u00b0 to 74\u00b0",
+        "resolved": false,
+        "correct": null
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 12,
+    "postedToday": 13,
     "cityResults": [
       {
         "city": "Los Angeles",
