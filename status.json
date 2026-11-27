@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T18:35:16.356076Z",
-  "generatedAtMs": 1795804516356,
+  "generatedAt": "2026-11-27T18:37:02.583226Z",
+  "generatedAtMs": 1795804622583,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:35:16.356076Z",
-      "lastActiveMs": 1795804516356,
+      "lastActive": "2026-11-27T18:37:02.583226Z",
+      "lastActiveMs": 1795804622583,
       "events24h": 5,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:35:16.356076Z",
-      "lastActiveMs": 1795804516356,
+      "lastActive": "2026-11-27T18:37:02.583226Z",
+      "lastActiveMs": 1795804622583,
       "events24h": 5,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:35:16.356076Z",
-      "lastActiveMs": 1795804516356,
+      "lastActive": "2026-11-27T18:37:02.583226Z",
+      "lastActiveMs": 1795804622583,
       "events24h": 5,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T18:35:16.356076Z",
-      "lastActiveMs": 1795804516356,
+      "lastActive": "2026-11-27T18:37:02.583226Z",
+      "lastActiveMs": 1795804622583,
       "events24h": 5,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T18:35:16.356076Z",
-      "lastActiveMs": 1795804516356,
+      "lastActive": "2026-11-27T18:37:02.583226Z",
+      "lastActiveMs": 1795804622583,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T18:35:16.356076Z",
-      "lastActiveMs": 1795804516356,
+      "lastActive": "2026-11-27T18:37:02.583226Z",
+      "lastActiveMs": 1795804622583,
       "events24h": 12,
       "runLive": true,
       "callingNow": false,
@@ -685,7 +685,153 @@
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 12
+    "postedToday": 12,
+    "cityResults": [
+      {
+        "city": "Los Angeles",
+        "date": "2026-11-26",
+        "call": "80\u201381\u00b0F",
+        "actual": 80,
+        "actualUnit": "F",
+        "actualF": 80.0,
+        "correct": true
+      },
+      {
+        "city": "Buenos Aires",
+        "date": "2026-11-26",
+        "call": "78.8\u00b0F",
+        "actual": 27,
+        "actualUnit": "C",
+        "actualF": 80.6,
+        "correct": false
+      },
+      {
+        "city": "Chicago",
+        "date": "2026-11-26",
+        "call": "44\u201345\u00b0F",
+        "actual": 44,
+        "actualUnit": "F",
+        "actualF": 44.0,
+        "correct": true
+      },
+      {
+        "city": "Atlanta",
+        "date": "2026-11-26",
+        "call": "52\u201353\u00b0F",
+        "actual": 49,
+        "actualUnit": "F",
+        "actualF": 49.0,
+        "correct": false
+      },
+      {
+        "city": "Toronto",
+        "date": "2026-11-26",
+        "call": "41\u00b0F",
+        "actual": 7,
+        "actualUnit": "C",
+        "actualF": 44.6,
+        "correct": false
+      },
+      {
+        "city": "NYC",
+        "date": "2026-11-26",
+        "call": "58\u201359\u00b0F",
+        "actual": 52,
+        "actualUnit": "F",
+        "actualF": 52.0,
+        "correct": false
+      },
+      {
+        "city": "Milan",
+        "date": "2026-11-26",
+        "call": "48.2\u00b0F",
+        "actual": 10,
+        "actualUnit": "C",
+        "actualF": 50.0,
+        "correct": false
+      },
+      {
+        "city": "London",
+        "date": "2026-11-26",
+        "call": "42.8\u00b0F",
+        "actual": 6,
+        "actualUnit": "C",
+        "actualF": 42.8,
+        "correct": true
+      },
+      {
+        "city": "Madrid",
+        "date": "2026-11-26",
+        "call": "51.8\u00b0F",
+        "actual": 12,
+        "actualUnit": "C",
+        "actualF": 53.6,
+        "correct": false
+      },
+      {
+        "city": "Singapore",
+        "date": "2026-11-26",
+        "call": "87.8\u00b0F",
+        "actual": 32,
+        "actualUnit": "C",
+        "actualF": 89.6,
+        "correct": false
+      },
+      {
+        "city": "Paris",
+        "date": "2026-11-26",
+        "call": "42.8\u00b0F",
+        "actual": 5,
+        "actualUnit": "C",
+        "actualF": 41.0,
+        "correct": false
+      },
+      {
+        "city": "Beijing",
+        "date": "2026-11-26",
+        "call": "50\u00b0F",
+        "actual": 13,
+        "actualUnit": "C",
+        "actualF": 55.4,
+        "correct": false
+      },
+      {
+        "city": "Hong Kong",
+        "date": "2026-11-26",
+        "call": "71.6\u00b0F",
+        "actual": 22,
+        "actualUnit": "C",
+        "actualF": 71.6,
+        "correct": true
+      },
+      {
+        "city": "Shanghai",
+        "date": "2026-11-26",
+        "call": "66.2\u00b0F",
+        "actual": 19,
+        "actualUnit": "C",
+        "actualF": 66.2,
+        "correct": true
+      },
+      {
+        "city": "Tokyo",
+        "date": "2026-11-26",
+        "call": "57.2\u00b0F",
+        "actual": 15,
+        "actualUnit": "C",
+        "actualF": 59.0,
+        "correct": false
+      },
+      {
+        "city": "Seoul",
+        "date": "2026-11-26",
+        "call": "57.2\u00b0F",
+        "actual": 15,
+        "actualUnit": "C",
+        "actualF": 59.0,
+        "correct": false
+      }
+    ]
   },
   "assistant": {
     "mentionsToday": 0
@@ -696,5 +842,145 @@
     "target": "production",
     "url": "https://f34rtv.vercel.app",
     "checkedAt": 1795800158055
+  },
+  "community": {
+    "capturedAt": "2026-11-27T18:30:00Z",
+    "source": "F34RTV Discord server",
+    "hours": "Bots on 24/7",
+    "access": "Patreon + Bot Access roles",
+    "news": [
+      {
+        "channel": "restocks",
+        "at": "2026-11-27T16:55:30Z",
+        "text": "Mega Evolution Ascended Heroes ETB restocked"
+      },
+      {
+        "channel": "restocks",
+        "at": "2026-11-27T12:32:00Z",
+        "text": "30th Celebration mini tins spotted at Walmart"
+      },
+      {
+        "channel": "restocks",
+        "at": "2026-11-27T12:05:00Z",
+        "text": "Ditto Premium Collection back on Amazon"
+      },
+      {
+        "channel": "cards-market",
+        "at": "2026-11-27T17:51:30Z",
+        "text": "Bandai Carddass leads this month's market"
+      },
+      {
+        "channel": "cards-market",
+        "at": "2026-11-27T17:36:30Z",
+        "text": "Collectors chasing 30th Celebration Mew cards"
+      },
+      {
+        "channel": "ebay-find-sales",
+        "at": "2026-11-27T17:26:30Z",
+        "text": "1999 Dragonite holo listed below market"
+      },
+      {
+        "channel": "ebay-find-sales",
+        "at": "2026-11-27T17:14:31Z",
+        "text": "M Gardevoir EX full art listed below market"
+      },
+      {
+        "channel": "events",
+        "at": "2026-11-27T16:54:30Z",
+        "text": "New GO Battle League season announced"
+      },
+      {
+        "channel": "events",
+        "at": "2026-11-27T10:59:29Z",
+        "text": "Snom ornament and new collabs this week"
+      },
+      {
+        "channel": "events",
+        "at": "2026-11-27T08:29:00Z",
+        "text": "December Moon Day brings Darkrai to Sleep"
+      }
+    ],
+    "trades": [
+      {
+        "channel": "trade-sell",
+        "text": "Looking for Lucario to finish a set"
+      },
+      {
+        "channel": "trade-sell",
+        "text": "Missing #3 and #11 - trading 2 for 1"
+      },
+      {
+        "channel": "pokechat",
+        "text": "Wants the promo card from the box"
+      },
+      {
+        "channel": "pokechat",
+        "text": "Delta Reign pickups, ETBs staying sealed"
+      },
+      {
+        "channel": "giveaways",
+        "text": "First giveaway: a booster pack"
+      }
+    ],
+    "roadmap": [
+      "1hr crypto market",
+      "Weather scanner bot"
+    ],
+    "guides": [
+      {
+        "title": "15-minute markets",
+        "lines": [
+          "Paper calls every 15 minutes with window, strike and confidence",
+          "Check each bot's W-L record before increasing size",
+          "Judge an edge only after 50+ settled calls",
+          "Compare hit rate with the price you pay",
+          "Paper calls only - not financial advice"
+        ]
+      },
+      {
+        "title": "Weather markets",
+        "lines": [
+          "Daily high-temperature markets for 18 cities",
+          "Forecasts compared with posted market prices",
+          "Match the exact settlement station for each city",
+          "Refresh the scan after new forecast updates",
+          "Forecasts can be wrong - paper only, not financial advice"
+        ]
+      }
+    ],
+    "streaks": {
+      "BTC 15 Min": {
+        "current": 6,
+        "kind": "win",
+        "bestWins": 5,
+        "bestDay": "2026-11-27",
+        "bestNightWins": 1,
+        "bestNightDay": "2026-11-25"
+      },
+      "ETH 15 Min": {
+        "current": 6,
+        "kind": "win",
+        "bestWins": 5,
+        "bestDay": "2026-11-27",
+        "bestNightWins": 2,
+        "bestNightDay": "2026-11-25"
+      },
+      "SOL 15 Min": {
+        "current": 1,
+        "kind": "win",
+        "bestWins": 3,
+        "bestDay": "2026-11-27",
+        "bestNightWins": 3,
+        "bestNightDay": "2026-11-25"
+      },
+      "XRP 15 Min": {
+        "current": 4,
+        "kind": "win",
+        "bestWins": 4,
+        "bestDay": "2026-11-27",
+        "bestNightWins": 1,
+        "bestNightDay": "2026-11-25"
+      }
+    }
   }
 }
