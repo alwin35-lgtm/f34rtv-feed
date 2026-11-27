@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T13:56:16.325964Z",
-  "generatedAtMs": 1795787776325,
+  "generatedAt": "2026-11-27T13:57:11.225809Z",
+  "generatedAtMs": 1795787831225,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T13:56:16.325964Z",
-      "lastActiveMs": 1795787776325,
+      "lastActive": "2026-11-27T13:57:11.225809Z",
+      "lastActiveMs": 1795787831225,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T13:56:16.325964Z",
-      "lastActiveMs": 1795787776325,
+      "lastActive": "2026-11-27T13:57:11.225809Z",
+      "lastActiveMs": 1795787831225,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T13:56:16.325964Z",
-      "lastActiveMs": 1795787776325,
+      "lastActive": "2026-11-27T13:57:11.225809Z",
+      "lastActiveMs": 1795787831225,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T13:56:16.325964Z",
-      "lastActiveMs": 1795787776325,
+      "lastActive": "2026-11-27T13:57:11.225809Z",
+      "lastActiveMs": 1795787831225,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T13:56:16.325964Z",
-      "lastActiveMs": 1795787776325,
+      "lastActive": "2026-11-27T13:57:11.225809Z",
+      "lastActiveMs": 1795787831225,
       "events24h": 26,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T13:56:16.325964Z",
-      "lastActiveMs": 1795787776325,
+      "lastActive": "2026-11-27T13:57:11.225809Z",
+      "lastActiveMs": 1795787831225,
       "events24h": 0,
       "runLive": true,
       "callingNow": true,
@@ -451,7 +451,7 @@
       "score": {
         "wins": 5,
         "losses": 12,
-        "lastResult": "win",
+        "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
       "callCity": "Buenos Aires",
