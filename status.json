@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T17:13:16.332986Z",
-  "generatedAtMs": 1795799596332,
+  "generatedAt": "2026-11-27T17:14:16.315475Z",
+  "generatedAtMs": 1795799656315,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:13:16.332986Z",
-      "lastActiveMs": 1795799596332,
+      "lastActive": "2026-11-27T17:14:16.315475Z",
+      "lastActiveMs": 1795799656315,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:13:16.332986Z",
-      "lastActiveMs": 1795799596332,
+      "lastActive": "2026-11-27T17:14:16.315475Z",
+      "lastActiveMs": 1795799656315,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:13:16.332986Z",
-      "lastActiveMs": 1795799596332,
+      "lastActive": "2026-11-27T17:14:16.315475Z",
+      "lastActiveMs": 1795799656315,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T17:13:16.332986Z",
-      "lastActiveMs": 1795799596332,
+      "lastActive": "2026-11-27T17:14:16.315475Z",
+      "lastActiveMs": 1795799656315,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T17:13:16.332986Z",
-      "lastActiveMs": 1795799596332,
+      "lastActive": "2026-11-27T17:14:16.315475Z",
+      "lastActiveMs": 1795799656315,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,11 +440,11 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T17:13:16.332986Z",
-      "lastActiveMs": 1795799596332,
-      "events24h": 0,
+      "lastActive": "2026-11-27T17:14:16.315475Z",
+      "lastActiveMs": 1795799656315,
+      "events24h": 12,
       "runLive": true,
-      "callingNow": true,
+      "callingNow": false,
       "doingNow": "Running live",
       "lastSender": "weather",
       "kind": "desk",
@@ -458,7 +458,7 @@
       "callAt": 1795798811000,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 0,
+      "heartbeatAt": 1795799406000,
       "heartbeatState": null,
       "lastMessageUrl": null,
       "webhookQuarantined": false,
@@ -470,7 +470,7 @@
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 18,
+      "callsToday": 12,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 1,
     "active24h": 1,
-    "events24h": 0
+    "events24h": 12
   },
   "schema": 2,
   "weather": {
@@ -889,10 +889,10 @@
     "mentionsToday": 0
   },
   "deploy": {
-    "uid": "dpl_Ahk4q3pWvcv8MU7Sd4FGsSHXJvU3",
+    "uid": "dpl_HMigf1enWwpTq6eA6d6Su3DjmGbT",
     "state": "READY",
     "target": "production",
     "url": "https://f34rtv.vercel.app",
-    "checkedAt": 1795655208685
+    "checkedAt": 1795799625993
   }
 }
