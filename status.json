@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "San Diego",
-      "callAt": 1795819172000,
+      "callCity": "San Antonio",
+      "callAt": 1795819180000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795819156000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795819172000,
+      "lastPostAt": 1795819180000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 29,
+      "callsToday": 30,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -490,7 +490,7 @@
         0,
         0,
         0,
-        17,
+        18,
         0,
         0,
         0,
@@ -784,10 +784,16 @@
         "call": "75\u00b0 or below",
         "resolved": false,
         "correct": null
+      },
+      {
+        "name": "San Antonio",
+        "call": "70\u00b0 to 71\u00b0",
+        "resolved": false,
+        "correct": null
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 29,
+    "postedToday": 30,
     "cityResults": [
       {
         "city": "Los Angeles",
