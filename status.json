@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T19:15:44.059128Z",
-  "generatedAtMs": 1795806944059,
+  "generatedAt": "2026-11-27T19:20:16.336553Z",
+  "generatedAtMs": 1795807216336,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T19:15:44.059128Z",
-      "lastActiveMs": 1795806944059,
+      "lastActive": "2026-11-27T19:20:16.336553Z",
+      "lastActiveMs": 1795807216336,
       "events24h": 8,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T19:15:44.059128Z",
-      "lastActiveMs": 1795806944059,
+      "lastActive": "2026-11-27T19:20:16.336553Z",
+      "lastActiveMs": 1795807216336,
       "events24h": 8,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T19:15:44.059128Z",
-      "lastActiveMs": 1795806944059,
+      "lastActive": "2026-11-27T19:20:16.336553Z",
+      "lastActiveMs": 1795807216336,
       "events24h": 8,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T19:15:44.059128Z",
-      "lastActiveMs": 1795806944059,
+      "lastActive": "2026-11-27T19:20:16.336553Z",
+      "lastActiveMs": 1795807216336,
       "events24h": 8,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T19:15:44.059128Z",
-      "lastActiveMs": 1795806944059,
+      "lastActive": "2026-11-27T19:20:16.336553Z",
+      "lastActiveMs": 1795807216336,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T19:15:44.059128Z",
-      "lastActiveMs": 1795806944059,
+      "lastActive": "2026-11-27T19:20:16.336553Z",
+      "lastActiveMs": 1795807216336,
       "events24h": 12,
       "runLive": true,
       "callingNow": false,
@@ -568,7 +568,7 @@
   "stats": {
     "botCount": 6,
     "working": 6,
-    "active10m": 5,
+    "active10m": 1,
     "active24h": 5,
     "events24h": 44
   },
