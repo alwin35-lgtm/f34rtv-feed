@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Austin",
-      "callAt": 1795819009000,
+      "callCity": "San Francisco",
+      "callAt": 1795819049000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795819011000,
       "heartbeatState": "idle",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795819009000,
+      "lastPostAt": 1795819049000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 13,
+      "callsToday": 14,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -490,7 +490,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0,
@@ -688,10 +688,16 @@
         "call": "73\u00b0 to 74\u00b0",
         "resolved": false,
         "correct": null
+      },
+      {
+        "name": "San Francisco",
+        "call": "64\u00b0 to 65\u00b0",
+        "resolved": false,
+        "correct": null
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 13,
+    "postedToday": 14,
     "cityResults": [
       {
         "city": "Los Angeles",
