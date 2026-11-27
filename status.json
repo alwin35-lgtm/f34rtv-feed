@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T14:45:28.700764Z",
-  "generatedAtMs": 1795790728700,
+  "generatedAt": "2026-11-27T14:45:41.196233Z",
+  "generatedAtMs": 1795790741196,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:45:28.700764Z",
-      "lastActiveMs": 1795790728700,
+      "lastActive": "2026-11-27T14:45:41.196233Z",
+      "lastActiveMs": 1795790741196,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:45:28.700764Z",
-      "lastActiveMs": 1795790728700,
+      "lastActive": "2026-11-27T14:45:41.196233Z",
+      "lastActiveMs": 1795790741196,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -178,10 +178,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 101,
+        "wins": 102,
         "losses": 36,
         "lastResult": "win",
-        "lastResultAt": 1795789824470
+        "lastResultAt": 1795790740620
       },
       "lastPostAt": 1795657214739,
       "noTrade": {
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:45:28.700764Z",
-      "lastActiveMs": 1795790728700,
+      "lastActive": "2026-11-27T14:45:41.196233Z",
+      "lastActiveMs": 1795790741196,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -247,10 +247,10 @@
       "lastSender": "sol",
       "kind": "desk",
       "score": {
-        "wins": 105,
+        "wins": 106,
         "losses": 31,
         "lastResult": "win",
-        "lastResultAt": 1795789823810
+        "lastResultAt": 1795790740612
       },
       "lastPostAt": 1795658114574,
       "noTrade": {
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-27T14:45:28.700764Z",
-      "lastActiveMs": 1795790728700,
+      "lastActive": "2026-11-27T14:45:41.196233Z",
+      "lastActiveMs": 1795790741196,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -316,10 +316,10 @@
       "lastSender": "xrp",
       "kind": "desk",
       "score": {
-        "wins": 109,
+        "wins": 110,
         "losses": 27,
         "lastResult": "win",
-        "lastResultAt": 1795789824019
+        "lastResultAt": 1795790740677
       },
       "lastPostAt": 1795657211164,
       "noTrade": {
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-27T14:45:28.700764Z",
-      "lastActiveMs": 1795790728700,
+      "lastActive": "2026-11-27T14:45:41.196233Z",
+      "lastActiveMs": 1795790741196,
       "events24h": 26,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-27T14:45:28.700764Z",
-      "lastActiveMs": 1795790728700,
+      "lastActive": "2026-11-27T14:45:41.196233Z",
+      "lastActiveMs": 1795790741196,
       "events24h": 0,
       "runLive": true,
       "callingNow": true,
@@ -502,31 +502,31 @@
   ],
   "ticker": [
     {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
       "sender": "system",
-      "at": 1795790728549,
+      "at": 1795790740677,
       "label": "Result settled"
     },
     {
       "name": "ETH 15 Min",
       "cluster": "Ethereum",
       "sender": "system",
-      "at": 1795789824470,
-      "label": "Result settled"
-    },
-    {
-      "name": "XRP 15 Min",
-      "cluster": "XRP",
-      "sender": "system",
-      "at": 1795789824019,
+      "at": 1795790740620,
       "label": "Result settled"
     },
     {
       "name": "SOL 15 Min",
       "cluster": "Solana",
       "sender": "system",
-      "at": 1795789823810,
+      "at": 1795790740612,
+      "label": "Result settled"
+    },
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795790728549,
       "label": "Result settled"
     },
     {
