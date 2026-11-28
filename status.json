@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T08:00:41.484598Z",
-  "generatedAtMs": 1795852841484,
+  "generatedAt": "2026-11-28T08:01:16.330910Z",
+  "generatedAtMs": 1795852876330,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:41.484598Z",
-      "lastActiveMs": 1795852841484,
+      "lastActive": "2026-11-28T08:01:16.330910Z",
+      "lastActiveMs": 1795852876330,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:41.484598Z",
-      "lastActiveMs": 1795852841484,
+      "lastActive": "2026-11-28T08:01:16.330910Z",
+      "lastActiveMs": 1795852876330,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:41.484598Z",
-      "lastActiveMs": 1795852841484,
+      "lastActive": "2026-11-28T08:01:16.330910Z",
+      "lastActiveMs": 1795852876330,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:41.484598Z",
-      "lastActiveMs": 1795852841484,
+      "lastActive": "2026-11-28T08:01:16.330910Z",
+      "lastActiveMs": 1795852876330,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T08:00:41.484598Z",
-      "lastActiveMs": 1795852841484,
+      "lastActive": "2026-11-28T08:01:16.330910Z",
+      "lastActiveMs": 1795852876330,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T08:00:41.484598Z",
-      "lastActiveMs": 1795852841484,
-      "events24h": 4,
+      "lastActive": "2026-11-28T08:01:16.330910Z",
+      "lastActiveMs": 1795852876330,
+      "events24h": 5,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,9 +457,9 @@
       "callCity": "Milan",
       "callAt": 1795852845000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795852837000,
-      "heartbeatState": "running",
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795852847000,
+      "heartbeatState": "idle",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 240
+    "events24h": 241
   },
   "schema": 2,
   "weather": {
