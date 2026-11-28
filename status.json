@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T13:59:16.303888Z",
-  "generatedAtMs": 1795874356303,
+  "generatedAt": "2026-11-28T14:00:16.313074Z",
+  "generatedAtMs": 1795874416313,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T13:59:16.303888Z",
-      "lastActiveMs": 1795874356303,
+      "lastActive": "2026-11-28T14:00:16.313074Z",
+      "lastActiveMs": 1795874416313,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -121,7 +121,7 @@
       },
       "accuracy20": 80.0,
       "callsToday": 56,
-      "missed24h": 13,
+      "missed24h": 12,
       "eventsByHour": [
         4,
         4,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T13:59:16.303888Z",
-      "lastActiveMs": 1795874356303,
+      "lastActive": "2026-11-28T14:00:16.313074Z",
+      "lastActiveMs": 1795874416313,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -190,7 +190,7 @@
       },
       "accuracy20": 85.0,
       "callsToday": 56,
-      "missed24h": 13,
+      "missed24h": 12,
       "eventsByHour": [
         4,
         4,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T13:59:16.303888Z",
-      "lastActiveMs": 1795874356303,
+      "lastActive": "2026-11-28T14:00:16.313074Z",
+      "lastActiveMs": 1795874416313,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -259,7 +259,7 @@
       },
       "accuracy20": 90.0,
       "callsToday": 56,
-      "missed24h": 13,
+      "missed24h": 12,
       "eventsByHour": [
         4,
         4,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T13:59:16.303888Z",
-      "lastActiveMs": 1795874356303,
+      "lastActive": "2026-11-28T14:00:16.313074Z",
+      "lastActiveMs": 1795874416313,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -328,7 +328,7 @@
       },
       "accuracy20": 80.0,
       "callsToday": 56,
-      "missed24h": 13,
+      "missed24h": 12,
       "eventsByHour": [
         4,
         4,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T13:59:16.303888Z",
-      "lastActiveMs": 1795874356303,
+      "lastActive": "2026-11-28T14:00:16.313074Z",
+      "lastActiveMs": 1795874416313,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T13:59:16.303888Z",
-      "lastActiveMs": 1795874356303,
-      "events24h": 7,
+      "lastActive": "2026-11-28T14:00:16.313074Z",
+      "lastActiveMs": 1795874416313,
+      "events24h": 8,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,9 +457,9 @@
       "callCity": "NYC",
       "callAt": 1795874410000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795871410000,
-      "heartbeatState": "idle",
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795874412000,
+      "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 339
+    "events24h": 340
   },
   "schema": 2,
   "weather": {
