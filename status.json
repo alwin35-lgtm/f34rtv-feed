@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T05:50:16.315290Z",
-  "generatedAtMs": 1795845016315,
+  "generatedAt": "2026-11-28T05:55:16.314959Z",
+  "generatedAtMs": 1795845316314,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,9 +100,9 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T05:50:16.315290Z",
-      "lastActiveMs": 1795845016315,
-      "events24h": 50,
+      "lastActive": "2026-11-28T05:55:16.314959Z",
+      "lastActiveMs": 1795845316314,
+      "events24h": 51,
       "runLive": true,
       "callingNow": false,
       "doingNow": "Running live",
@@ -114,13 +114,13 @@
         "lastResult": "win",
         "lastResultAt": 1795844741397
       },
-      "lastPostAt": 1795844401178,
+      "lastPostAt": 1795845301253,
       "noTrade": {
         "count": 73,
-        "rate": 50.0
+        "rate": 49.7
       },
       "accuracy20": 70.0,
-      "callsToday": 23,
+      "callsToday": 24,
       "missed24h": 45,
       "eventsByHour": [
         4,
@@ -128,7 +128,7 @@
         4,
         4,
         4,
-        3,
+        4,
         0,
         0,
         0,
@@ -152,7 +152,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795844741423,
+      "heartbeatAt": 1795845301269,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -169,9 +169,9 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T05:50:16.315290Z",
-      "lastActiveMs": 1795845016315,
-      "events24h": 50,
+      "lastActive": "2026-11-28T05:55:16.314959Z",
+      "lastActiveMs": 1795845316314,
+      "events24h": 51,
       "runLive": true,
       "callingNow": false,
       "doingNow": "Running live",
@@ -183,13 +183,13 @@
         "lastResult": "win",
         "lastResultAt": 1795844723975
       },
-      "lastPostAt": 1795844401027,
+      "lastPostAt": 1795845301253,
       "noTrade": {
         "count": 71,
-        "rate": 48.6
+        "rate": 48.3
       },
       "accuracy20": 85.0,
-      "callsToday": 23,
+      "callsToday": 24,
       "missed24h": 45,
       "eventsByHour": [
         4,
@@ -197,7 +197,7 @@
         4,
         4,
         4,
-        3,
+        4,
         0,
         0,
         0,
@@ -221,7 +221,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795844724004,
+      "heartbeatAt": 1795845301269,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -238,9 +238,9 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T05:50:16.315290Z",
-      "lastActiveMs": 1795845016315,
-      "events24h": 50,
+      "lastActive": "2026-11-28T05:55:16.314959Z",
+      "lastActiveMs": 1795845316314,
+      "events24h": 51,
       "runLive": true,
       "callingNow": false,
       "doingNow": "Running live",
@@ -252,13 +252,13 @@
         "lastResult": "win",
         "lastResultAt": 1795844723797
       },
-      "lastPostAt": 1795844400534,
+      "lastPostAt": 1795845300278,
       "noTrade": {
         "count": 62,
-        "rate": 41.9
+        "rate": 41.6
       },
       "accuracy20": 80.0,
-      "callsToday": 23,
+      "callsToday": 24,
       "missed24h": 45,
       "eventsByHour": [
         4,
@@ -266,7 +266,7 @@
         4,
         4,
         4,
-        3,
+        4,
         0,
         0,
         0,
@@ -290,7 +290,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795844723825,
+      "heartbeatAt": 1795845300291,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -307,9 +307,9 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T05:50:16.315290Z",
-      "lastActiveMs": 1795845016315,
-      "events24h": 50,
+      "lastActive": "2026-11-28T05:55:16.314959Z",
+      "lastActiveMs": 1795845316314,
+      "events24h": 51,
       "runLive": true,
       "callingNow": false,
       "doingNow": "Running live",
@@ -321,13 +321,13 @@
         "lastResult": "win",
         "lastResultAt": 1795844724485
       },
-      "lastPostAt": 1795844401431,
+      "lastPostAt": 1795845301466,
       "noTrade": {
         "count": 66,
-        "rate": 45.2
+        "rate": 44.9
       },
       "accuracy20": 80.0,
-      "callsToday": 23,
+      "callsToday": 24,
       "missed24h": 45,
       "eventsByHour": [
         4,
@@ -335,7 +335,7 @@
         4,
         4,
         4,
-        3,
+        4,
         0,
         0,
         0,
@@ -359,7 +359,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795844724540,
+      "heartbeatAt": 1795845301479,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T05:50:16.315290Z",
-      "lastActiveMs": 1795845016315,
+      "lastActive": "2026-11-28T05:55:16.314959Z",
+      "lastActiveMs": 1795845316314,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T05:50:16.315290Z",
-      "lastActiveMs": 1795845016315,
+      "lastActive": "2026-11-28T05:55:16.314959Z",
+      "lastActiveMs": 1795845316314,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -502,6 +502,34 @@
   ],
   "ticker": [
     {
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
+      "sender": "bot",
+      "at": 1795845301466,
+      "label": "Call posted"
+    },
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "bot",
+      "at": 1795845301253,
+      "label": "Call posted"
+    },
+    {
+      "name": "ETH 15 Min",
+      "cluster": "Ethereum",
+      "sender": "bot",
+      "at": 1795845301254,
+      "label": "Call posted"
+    },
+    {
+      "name": "SOL 15 Min",
+      "cluster": "Solana",
+      "sender": "bot",
+      "at": 1795845300278,
+      "label": "Call posted"
+    },
+    {
       "name": "BTC 15 Min",
       "cluster": "Bitcoin",
       "sender": "system",
@@ -535,42 +563,14 @@
       "sender": "bot",
       "at": 1795844401431,
       "label": "Call posted"
-    },
-    {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
-      "sender": "bot",
-      "at": 1795844401178,
-      "label": "Call posted"
-    },
-    {
-      "name": "ETH 15 Min",
-      "cluster": "Ethereum",
-      "sender": "bot",
-      "at": 1795844401027,
-      "label": "Call posted"
-    },
-    {
-      "name": "SOL 15 Min",
-      "cluster": "Solana",
-      "sender": "bot",
-      "at": 1795844400534,
-      "label": "Call posted"
-    },
-    {
-      "name": "SOL 15 Min",
-      "cluster": "Solana",
-      "sender": "bot",
-      "at": 1795843501329,
-      "label": "Call posted"
     }
   ],
   "stats": {
     "botCount": 6,
     "working": 6,
-    "active10m": 1,
+    "active10m": 5,
     "active24h": 5,
-    "events24h": 200
+    "events24h": 204
   },
   "schema": 2,
   "weather": {
