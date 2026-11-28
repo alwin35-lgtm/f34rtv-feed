@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T01:00:45.100233Z",
-  "generatedAtMs": 1795827645100,
+  "generatedAt": "2026-11-28T01:01:16.327118Z",
+  "generatedAtMs": 1795827676327,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:45.100233Z",
-      "lastActiveMs": 1795827645100,
+      "lastActive": "2026-11-28T01:01:16.327118Z",
+      "lastActiveMs": 1795827676327,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:45.100233Z",
-      "lastActiveMs": 1795827645100,
+      "lastActive": "2026-11-28T01:01:16.327118Z",
+      "lastActiveMs": 1795827676327,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:45.100233Z",
-      "lastActiveMs": 1795827645100,
+      "lastActive": "2026-11-28T01:01:16.327118Z",
+      "lastActiveMs": 1795827676327,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:45.100233Z",
-      "lastActiveMs": 1795827645100,
+      "lastActive": "2026-11-28T01:01:16.327118Z",
+      "lastActiveMs": 1795827676327,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T01:00:45.100233Z",
-      "lastActiveMs": 1795827645100,
+      "lastActive": "2026-11-28T01:01:16.327118Z",
+      "lastActiveMs": 1795827676327,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T01:00:45.100233Z",
-      "lastActiveMs": 1795827645100,
-      "events24h": 37,
+      "lastActive": "2026-11-28T01:01:16.327118Z",
+      "lastActiveMs": 1795827676327,
+      "events24h": 38,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,9 +457,9 @@
       "callCity": "Singapore",
       "callAt": 1795827654000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795827643000,
-      "heartbeatState": "running",
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795827657000,
+      "heartbeatState": "idle",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 161
+    "events24h": 162
   },
   "schema": 2,
   "weather": {
