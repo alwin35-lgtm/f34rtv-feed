@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Madrid",
-      "callAt": 1795852826000,
+      "callCity": "Warsaw",
+      "callAt": 1795852836000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795852819000,
@@ -464,19 +464,19 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795852826000,
+      "lastPostAt": 1795852836000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 35.0,
-      "callsToday": 3,
+      "callsToday": 4,
       "missed24h": 0,
       "eventsByHour": [
         0,
         0,
         0,
-        3,
+        4,
         0,
         0,
         0,
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 33.3,
-    "postedToday": 3,
+    "postedToday": 4,
     "cityResults": [
       {
         "city": "Los Angeles",
