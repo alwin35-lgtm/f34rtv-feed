@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Seoul",
-      "callAt": 1795824012000,
+      "callCity": "Tokyo",
+      "callAt": 1795824022000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795824014000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795824012000,
+      "lastPostAt": 1795824022000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 33,
+      "callsToday": 34,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -492,7 +492,7 @@
         0,
         20,
         0,
-        1,
+        2,
         0,
         0,
         0,
@@ -589,7 +589,7 @@
       },
       {
         "name": "Tokyo",
-        "call": "21\u00b0C",
+        "call": "14\u00b0C",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 33,
+    "postedToday": 34,
     "cityResults": [
       {
         "city": "Los Angeles",
