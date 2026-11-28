@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Hong Kong",
-      "callAt": 1795827624000,
+      "callCity": "Shanghai",
+      "callAt": 1795827633000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795827605000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795827624000,
+      "lastPostAt": 1795827633000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 35,
+      "callsToday": 36,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -493,7 +493,7 @@
         20,
         0,
         2,
-        1,
+        2,
         0,
         0,
         0
@@ -601,7 +601,7 @@
       },
       {
         "name": "Shanghai",
-        "call": "16\u00b0C",
+        "call": "15\u00b0C",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 35,
+    "postedToday": 36,
     "cityResults": [
       {
         "city": "Los Angeles",
