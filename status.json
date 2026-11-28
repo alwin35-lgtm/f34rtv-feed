@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Washington DC",
-      "callAt": 1795874479000,
+      "callCity": "Newark",
+      "callAt": 1795874489000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795874470000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795874479000,
+      "lastPostAt": 1795874489000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 30.0,
-      "callsToday": 12,
+      "callsToday": 13,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -482,7 +482,7 @@
         0,
         1,
         0,
-        5,
+        6,
         0,
         0,
         0,
@@ -745,7 +745,7 @@
       },
       {
         "name": "Newark",
-        "call": "52\u00b0 to 53\u00b0",
+        "call": "54\u00b0 to 55\u00b0",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 31.8,
-    "postedToday": 12,
+    "postedToday": 13,
     "cityResults": [
       {
         "city": "Los Angeles",
