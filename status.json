@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Beijing",
-      "callAt": 1795827642000,
+      "callCity": "Singapore",
+      "callAt": 1795827654000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795827643000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795827642000,
+      "lastPostAt": 1795827654000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 37,
+      "callsToday": 38,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -493,7 +493,7 @@
         20,
         0,
         2,
-        3,
+        4,
         0,
         0,
         0
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 37,
+    "postedToday": 38,
     "cityResults": [
       {
         "city": "Los Angeles",
