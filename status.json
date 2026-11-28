@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Louisville",
-      "callAt": 1795874503000,
+      "callCity": "Trenton",
+      "callAt": 1795874514000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795874470000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795874503000,
+      "lastPostAt": 1795874514000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 30.0,
-      "callsToday": 14,
+      "callsToday": 15,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -482,7 +482,7 @@
         0,
         1,
         0,
-        7,
+        8,
         0,
         0,
         0,
@@ -799,13 +799,13 @@
       },
       {
         "name": "Trenton",
-        "call": "51\u00b0 to 52\u00b0",
+        "call": "53\u00b0 to 54\u00b0",
         "resolved": false,
         "correct": null
       }
     ],
     "accuracy": 31.8,
-    "postedToday": 14,
+    "postedToday": 15,
     "cityResults": [
       {
         "city": "Los Angeles",
