@@ -444,7 +444,7 @@
       "lastActiveMs": 1795827623141,
       "events24h": 34,
       "runLive": true,
-      "callingNow": false,
+      "callingNow": true,
       "doingNow": "Running live",
       "lastSender": "weather",
       "kind": "desk",
@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Tokyo",
-      "callAt": 1795824022000,
+      "callCity": "Hong Kong",
+      "callAt": 1795827624000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795827605000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795824022000,
+      "lastPostAt": 1795827624000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 27.8,
-      "callsToday": 34,
+      "callsToday": 35,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -493,7 +493,7 @@
         20,
         0,
         2,
-        0,
+        1,
         0,
         0,
         0
@@ -595,7 +595,7 @@
       },
       {
         "name": "Hong Kong",
-        "call": "26\u00b0C",
+        "call": "23\u00b0C",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 27.8,
-    "postedToday": 34,
+    "postedToday": 35,
     "cityResults": [
       {
         "city": "Los Angeles",
