@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T08:00:24.680622Z",
-  "generatedAtMs": 1795852824680,
+  "generatedAt": "2026-11-28T08:00:40.606334Z",
+  "generatedAtMs": 1795852840606,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:24.680622Z",
-      "lastActiveMs": 1795852824680,
+      "lastActive": "2026-11-28T08:00:40.606334Z",
+      "lastActiveMs": 1795852840606,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -109,10 +109,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 160,
+        "wins": 161,
         "losses": 47,
         "lastResult": "win",
-        "lastResultAt": 1795851936771
+        "lastResultAt": 1795852840501
       },
       "lastPostAt": 1795852500275,
       "noTrade": {
@@ -152,7 +152,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795852500288,
+      "heartbeatAt": 1795852840527,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:24.680622Z",
-      "lastActiveMs": 1795852824680,
+      "lastActive": "2026-11-28T08:00:40.606334Z",
+      "lastActiveMs": 1795852840606,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:24.680622Z",
-      "lastActiveMs": 1795852824680,
+      "lastActive": "2026-11-28T08:00:40.606334Z",
+      "lastActiveMs": 1795852840606,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T08:00:24.680622Z",
-      "lastActiveMs": 1795852824680,
+      "lastActive": "2026-11-28T08:00:40.606334Z",
+      "lastActiveMs": 1795852840606,
       "events24h": 59,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T08:00:24.680622Z",
-      "lastActiveMs": 1795852824680,
+      "lastActive": "2026-11-28T08:00:40.606334Z",
+      "lastActiveMs": 1795852840606,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T08:00:24.680622Z",
-      "lastActiveMs": 1795852824680,
-      "events24h": 2,
+      "lastActive": "2026-11-28T08:00:40.606334Z",
+      "lastActiveMs": 1795852840606,
+      "events24h": 4,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,8 +457,8 @@
       "callCity": "Warsaw",
       "callAt": 1795852836000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795852819000,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795852837000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
@@ -501,6 +501,13 @@
     }
   ],
   "ticker": [
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795852840501,
+      "label": "Result settled"
+    },
     {
       "name": "ETH 15 Min",
       "cluster": "Ethereum",
@@ -551,13 +558,6 @@
       "label": "Result settled"
     },
     {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
-      "sender": "system",
-      "at": 1795851936771,
-      "label": "Result settled"
-    },
-    {
       "name": "XRP 15 Min",
       "cluster": "XRP",
       "sender": "bot",
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 238
+    "events24h": 240
   },
   "schema": 2,
   "weather": {
@@ -1070,7 +1070,7 @@
     ],
     "streaks": {
       "BTC 15 Min": {
-        "current": 12,
+        "current": 13,
         "kind": "win",
         "bestWins": 34,
         "bestDay": "2026-11-27",
