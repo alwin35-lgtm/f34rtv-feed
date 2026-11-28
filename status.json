@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T12:00:16.299560Z",
-  "generatedAtMs": 1795867216299,
+  "generatedAt": "2026-11-28T12:00:25.164503Z",
+  "generatedAtMs": 1795867225164,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T12:00:16.299560Z",
-      "lastActiveMs": 1795867216299,
+      "lastActive": "2026-11-28T12:00:25.164503Z",
+      "lastActiveMs": 1795867225164,
       "events24h": 75,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T12:00:16.299560Z",
-      "lastActiveMs": 1795867216299,
+      "lastActive": "2026-11-28T12:00:25.164503Z",
+      "lastActiveMs": 1795867225164,
       "events24h": 75,
       "runLive": true,
       "callingNow": false,
@@ -178,10 +178,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 173,
+        "wins": 174,
         "losses": 49,
         "lastResult": "win",
-        "lastResultAt": 1795866324205
+        "lastResultAt": 1795867225059
       },
       "lastPostAt": 1795866901474,
       "noTrade": {
@@ -221,7 +221,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795866901489,
+      "heartbeatAt": 1795867225085,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T12:00:16.299560Z",
-      "lastActiveMs": 1795867216299,
+      "lastActive": "2026-11-28T12:00:25.164503Z",
+      "lastActiveMs": 1795867225164,
       "events24h": 75,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T12:00:16.299560Z",
-      "lastActiveMs": 1795867216299,
+      "lastActive": "2026-11-28T12:00:25.164503Z",
+      "lastActiveMs": 1795867225164,
       "events24h": 75,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T12:00:16.299560Z",
-      "lastActiveMs": 1795867216299,
+      "lastActive": "2026-11-28T12:00:25.164503Z",
+      "lastActiveMs": 1795867225164,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T12:00:16.299560Z",
-      "lastActiveMs": 1795867216299,
+      "lastActive": "2026-11-28T12:00:25.164503Z",
+      "lastActiveMs": 1795867225164,
       "events24h": 7,
       "runLive": true,
       "callingNow": true,
@@ -502,6 +502,13 @@
   ],
   "ticker": [
     {
+      "name": "ETH 15 Min",
+      "cluster": "Ethereum",
+      "sender": "system",
+      "at": 1795867225059,
+      "label": "Result settled"
+    },
+    {
       "name": "SOL 15 Min",
       "cluster": "Solana",
       "sender": "bot",
@@ -548,13 +555,6 @@
       "cluster": "Solana",
       "sender": "system",
       "at": 1795866324482,
-      "label": "Result settled"
-    },
-    {
-      "name": "ETH 15 Min",
-      "cluster": "Ethereum",
-      "sender": "system",
-      "at": 1795866324205,
       "label": "Result settled"
     },
     {
@@ -1078,7 +1078,7 @@
         "bestNightDay": "2026-11-27"
       },
       "ETH 15 Min": {
-        "current": 2,
+        "current": 3,
         "kind": "win",
         "bestWins": 39,
         "bestDay": "2026-11-27",
