@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Toronto",
-      "callAt": 1795874439000,
+      "callCity": "Boston",
+      "callAt": 1795874469000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795874440000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795874439000,
+      "lastPostAt": 1795874469000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 30.0,
-      "callsToday": 10,
+      "callsToday": 11,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -482,7 +482,7 @@
         0,
         1,
         0,
-        3,
+        4,
         0,
         0,
         0,
@@ -733,7 +733,7 @@
       },
       {
         "name": "Boston",
-        "call": "51\u00b0 to 52\u00b0",
+        "call": "53\u00b0 to 54\u00b0",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 31.8,
-    "postedToday": 10,
+    "postedToday": 11,
     "cityResults": [
       {
         "city": "Los Angeles",
