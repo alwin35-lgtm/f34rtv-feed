@@ -454,8 +454,8 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Newark",
-      "callAt": 1795874489000,
+      "callCity": "Louisville",
+      "callAt": 1795874503000,
       "lastError": null,
       "lastErrorAt": null,
       "heartbeatAt": 1795874470000,
@@ -464,13 +464,13 @@
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795874489000,
+      "lastPostAt": 1795874503000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 30.0,
-      "callsToday": 13,
+      "callsToday": 14,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -482,7 +482,7 @@
         0,
         1,
         0,
-        6,
+        7,
         0,
         0,
         0,
@@ -793,7 +793,7 @@
       },
       {
         "name": "Louisville",
-        "call": "54\u00b0 to 55\u00b0",
+        "call": "55\u00b0 to 56\u00b0",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 31.8,
-    "postedToday": 13,
+    "postedToday": 14,
     "cityResults": [
       {
         "city": "Los Angeles",
