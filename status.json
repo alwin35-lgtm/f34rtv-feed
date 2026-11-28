@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T06:05:16.325937Z",
-  "generatedAtMs": 1795845916325,
+  "generatedAt": "2026-11-28T06:09:16.324756Z",
+  "generatedAtMs": 1795846156324,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T06:05:16.325937Z",
-      "lastActiveMs": 1795845916325,
+      "lastActive": "2026-11-28T06:09:16.324756Z",
+      "lastActiveMs": 1795846156324,
       "events24h": 51,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T06:05:16.325937Z",
-      "lastActiveMs": 1795845916325,
+      "lastActive": "2026-11-28T06:09:16.324756Z",
+      "lastActiveMs": 1795846156324,
       "events24h": 51,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T06:05:16.325937Z",
-      "lastActiveMs": 1795845916325,
+      "lastActive": "2026-11-28T06:09:16.324756Z",
+      "lastActiveMs": 1795846156324,
       "events24h": 51,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T06:05:16.325937Z",
-      "lastActiveMs": 1795845916325,
+      "lastActive": "2026-11-28T06:09:16.324756Z",
+      "lastActiveMs": 1795846156324,
       "events24h": 51,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T06:05:16.325937Z",
-      "lastActiveMs": 1795845916325,
+      "lastActive": "2026-11-28T06:09:16.324756Z",
+      "lastActiveMs": 1795846156324,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T06:05:16.325937Z",
-      "lastActiveMs": 1795845916325,
+      "lastActive": "2026-11-28T06:09:16.324756Z",
+      "lastActiveMs": 1795846156324,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -804,7 +804,7 @@
         "correct": null
       }
     ],
-    "accuracy": 35.0,
+    "accuracy": 33.3,
     "postedToday": 0,
     "cityResults": [
       {
