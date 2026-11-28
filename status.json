@@ -454,29 +454,29 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Paris",
-      "callAt": 1795852808000,
+      "callCity": "Munich",
+      "callAt": 1795852818000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795852810000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795852808000,
+      "lastPostAt": 1795852818000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 35.0,
-      "callsToday": 1,
+      "callsToday": 2,
       "missed24h": 0,
       "eventsByHour": [
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0,
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 33.3,
-    "postedToday": 1,
+    "postedToday": 2,
     "cityResults": [
       {
         "city": "Los Angeles",
