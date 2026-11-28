@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T01:00:40.490973Z",
-  "generatedAtMs": 1795827640490,
+  "generatedAt": "2026-11-28T01:00:45.100233Z",
+  "generatedAtMs": 1795827645100,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:40.490973Z",
-      "lastActiveMs": 1795827640490,
+      "lastActive": "2026-11-28T01:00:45.100233Z",
+      "lastActiveMs": 1795827645100,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -109,10 +109,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 138,
+        "wins": 139,
         "losses": 41,
-        "lastResult": "loss",
-        "lastResultAt": 1795826722538
+        "lastResult": "win",
+        "lastResultAt": 1795827645006
       },
       "lastPostAt": 1795827301877,
       "noTrade": {
@@ -152,7 +152,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795827301889,
+      "heartbeatAt": 1795827645029,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:40.490973Z",
-      "lastActiveMs": 1795827640490,
+      "lastActive": "2026-11-28T01:00:45.100233Z",
+      "lastActiveMs": 1795827645100,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:40.490973Z",
-      "lastActiveMs": 1795827640490,
+      "lastActive": "2026-11-28T01:00:45.100233Z",
+      "lastActiveMs": 1795827645100,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:40.490973Z",
-      "lastActiveMs": 1795827640490,
+      "lastActive": "2026-11-28T01:00:45.100233Z",
+      "lastActiveMs": 1795827645100,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T01:00:40.490973Z",
-      "lastActiveMs": 1795827640490,
+      "lastActive": "2026-11-28T01:00:45.100233Z",
+      "lastActiveMs": 1795827645100,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T01:00:40.490973Z",
-      "lastActiveMs": 1795827640490,
-      "events24h": 36,
+      "lastActive": "2026-11-28T01:00:45.100233Z",
+      "lastActiveMs": 1795827645100,
+      "events24h": 37,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,8 +457,8 @@
       "callCity": "Beijing",
       "callAt": 1795827642000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795827634000,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795827643000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
@@ -501,6 +501,13 @@
     }
   ],
   "ticker": [
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795827645006,
+      "label": "Result settled"
+    },
     {
       "name": "ETH 15 Min",
       "cluster": "Ethereum",
@@ -551,13 +558,6 @@
       "label": "Call posted"
     },
     {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
-      "sender": "system",
-      "at": 1795826722538,
-      "label": "Result settled"
-    },
-    {
       "name": "XRP 15 Min",
       "cluster": "XRP",
       "sender": "bot",
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 160
+    "events24h": 161
   },
   "schema": 2,
   "weather": {
@@ -1071,10 +1071,10 @@
     "streaks": {
       "BTC 15 Min": {
         "current": 1,
-        "kind": "loss",
-        "bestWins": 24,
+        "kind": "win",
+        "bestWins": 25,
         "bestDay": "2026-11-27",
-        "bestNightWins": 6,
+        "bestNightWins": 7,
         "bestNightDay": "2026-11-27"
       },
       "ETH 15 Min": {
