@@ -454,23 +454,23 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "NYC",
-      "callAt": 1795874410000,
+      "callCity": "Atlanta",
+      "callAt": 1795874430000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795874412000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795874410000,
+      "lastPostAt": 1795874430000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 30.0,
-      "callsToday": 8,
+      "callsToday": 9,
       "missed24h": 0,
       "eventsByHour": [
         0,
@@ -482,7 +482,7 @@
         0,
         1,
         0,
-        1,
+        2,
         0,
         0,
         0,
@@ -661,7 +661,7 @@
       },
       {
         "name": "Atlanta",
-        "call": "58-59\u00b0F",
+        "call": "62-63\u00b0F",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 31.8,
-    "postedToday": 8,
+    "postedToday": 9,
     "cityResults": [
       {
         "city": "Los Angeles",
