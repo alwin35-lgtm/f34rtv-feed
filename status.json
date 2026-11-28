@@ -454,29 +454,29 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Warsaw",
-      "callAt": 1795852836000,
+      "callCity": "Milan",
+      "callAt": 1795852845000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795852837000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795852836000,
+      "lastPostAt": 1795852845000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 35.0,
-      "callsToday": 4,
+      "callsToday": 5,
       "missed24h": 0,
       "eventsByHour": [
         0,
         0,
         0,
-        4,
+        5,
         0,
         0,
         0,
@@ -643,7 +643,7 @@
       },
       {
         "name": "Milan",
-        "call": "9\u00b0C",
+        "call": "8\u00b0C",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 33.3,
-    "postedToday": 4,
+    "postedToday": 5,
     "cityResults": [
       {
         "city": "Los Angeles",
