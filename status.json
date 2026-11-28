@@ -454,29 +454,29 @@
         "lastResult": "loss",
         "lastResultAt": 1795786015000
       },
-      "callCity": "Munich",
-      "callAt": 1795852818000,
+      "callCity": "Madrid",
+      "callAt": 1795852826000,
       "lastError": null,
-      "lastErrorAt": 0,
+      "lastErrorAt": null,
       "heartbeatAt": 1795852819000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
       "stale": false,
       "alert": null,
-      "lastPostAt": 1795852818000,
+      "lastPostAt": 1795852826000,
       "noTrade": {
         "count": 0,
         "rate": 0.0
       },
       "accuracy20": 35.0,
-      "callsToday": 2,
+      "callsToday": 3,
       "missed24h": 0,
       "eventsByHour": [
         0,
         0,
         0,
-        2,
+        3,
         0,
         0,
         0,
@@ -631,7 +631,7 @@
       },
       {
         "name": "Madrid",
-        "call": "11\u00b0C",
+        "call": "13\u00b0C",
         "resolved": false,
         "correct": null
       },
@@ -805,7 +805,7 @@
       }
     ],
     "accuracy": 33.3,
-    "postedToday": 2,
+    "postedToday": 3,
     "cityResults": [
       {
         "city": "Los Angeles",
