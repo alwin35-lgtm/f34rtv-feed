@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T14:00:24.500786Z",
-  "generatedAtMs": 1795874424500,
+  "generatedAt": "2026-11-28T14:00:45.213840Z",
+  "generatedAtMs": 1795874445213,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:24.500786Z",
-      "lastActiveMs": 1795874424500,
+      "lastActive": "2026-11-28T14:00:45.213840Z",
+      "lastActiveMs": 1795874445213,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -109,10 +109,10 @@
       "lastSender": "appu",
       "kind": "desk",
       "score": {
-        "wins": 179,
+        "wins": 180,
         "losses": 52,
         "lastResult": "win",
-        "lastResultAt": 1795873535650
+        "lastResultAt": 1795874445053
       },
       "lastPostAt": 1795874101105,
       "noTrade": {
@@ -152,7 +152,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795874101119,
+      "heartbeatAt": 1795874445076,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:24.500786Z",
-      "lastActiveMs": 1795874424500,
+      "lastActive": "2026-11-28T14:00:45.213840Z",
+      "lastActiveMs": 1795874445213,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:24.500786Z",
-      "lastActiveMs": 1795874424500,
+      "lastActive": "2026-11-28T14:00:45.213840Z",
+      "lastActiveMs": 1795874445213,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:24.500786Z",
-      "lastActiveMs": 1795874424500,
+      "lastActive": "2026-11-28T14:00:45.213840Z",
+      "lastActiveMs": 1795874445213,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T14:00:24.500786Z",
-      "lastActiveMs": 1795874424500,
+      "lastActive": "2026-11-28T14:00:45.213840Z",
+      "lastActiveMs": 1795874445213,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T14:00:24.500786Z",
-      "lastActiveMs": 1795874424500,
-      "events24h": 8,
+      "lastActive": "2026-11-28T14:00:45.213840Z",
+      "lastActiveMs": 1795874445213,
+      "events24h": 10,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,8 +457,8 @@
       "callCity": "Toronto",
       "callAt": 1795874439000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795874412000,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795874440000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
@@ -501,6 +501,13 @@
     }
   ],
   "ticker": [
+    {
+      "name": "BTC 15 Min",
+      "cluster": "Bitcoin",
+      "sender": "system",
+      "at": 1795874445053,
+      "label": "Result settled"
+    },
     {
       "name": "SOL 15 Min",
       "cluster": "Solana",
@@ -553,13 +560,6 @@
     {
       "name": "BTC 15 Min",
       "cluster": "Bitcoin",
-      "sender": "system",
-      "at": 1795873535650,
-      "label": "Result settled"
-    },
-    {
-      "name": "BTC 15 Min",
-      "cluster": "Bitcoin",
       "sender": "bot",
       "at": 1795873204065,
       "label": "Call posted"
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 340
+    "events24h": 342
   },
   "schema": 2,
   "weather": {
@@ -1070,7 +1070,7 @@
     ],
     "streaks": {
       "BTC 15 Min": {
-        "current": 8,
+        "current": 9,
         "kind": "win",
         "bestWins": 34,
         "bestDay": "2026-11-27",
