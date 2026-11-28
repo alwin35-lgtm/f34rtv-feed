@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T14:00:16.313074Z",
-  "generatedAtMs": 1795874416313,
+  "generatedAt": "2026-11-28T14:00:24.134053Z",
+  "generatedAtMs": 1795874424134,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:16.313074Z",
-      "lastActiveMs": 1795874416313,
+      "lastActive": "2026-11-28T14:00:24.134053Z",
+      "lastActiveMs": 1795874424134,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:16.313074Z",
-      "lastActiveMs": 1795874416313,
+      "lastActive": "2026-11-28T14:00:24.134053Z",
+      "lastActiveMs": 1795874424134,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:16.313074Z",
-      "lastActiveMs": 1795874416313,
+      "lastActive": "2026-11-28T14:00:24.134053Z",
+      "lastActiveMs": 1795874424134,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:16.313074Z",
-      "lastActiveMs": 1795874416313,
+      "lastActive": "2026-11-28T14:00:24.134053Z",
+      "lastActiveMs": 1795874424134,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -316,17 +316,17 @@
       "lastSender": "xrp",
       "kind": "desk",
       "score": {
-        "wins": 182,
+        "wins": 183,
         "losses": 47,
         "lastResult": "win",
-        "lastResultAt": 1795873523923
+        "lastResultAt": 1795874424024
       },
       "lastPostAt": 1795874101090,
       "noTrade": {
         "count": 66,
         "rate": 36.9
       },
-      "accuracy20": 80.0,
+      "accuracy20": 85.0,
       "callsToday": 56,
       "missed24h": 12,
       "eventsByHour": [
@@ -359,7 +359,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795874101102,
+      "heartbeatAt": 1795874424049,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T14:00:16.313074Z",
-      "lastActiveMs": 1795874416313,
+      "lastActive": "2026-11-28T14:00:24.134053Z",
+      "lastActiveMs": 1795874424134,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,8 +440,8 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T14:00:16.313074Z",
-      "lastActiveMs": 1795874416313,
+      "lastActive": "2026-11-28T14:00:24.134053Z",
+      "lastActiveMs": 1795874424134,
       "events24h": 8,
       "runLive": true,
       "callingNow": true,
@@ -502,6 +502,13 @@
   ],
   "ticker": [
     {
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
+      "sender": "system",
+      "at": 1795874424024,
+      "label": "Result settled"
+    },
+    {
       "name": "SOL 15 Min",
       "cluster": "Solana",
       "sender": "bot",
@@ -548,13 +555,6 @@
       "cluster": "Solana",
       "sender": "system",
       "at": 1795873524644,
-      "label": "Result settled"
-    },
-    {
-      "name": "XRP 15 Min",
-      "cluster": "XRP",
-      "sender": "system",
-      "at": 1795873523923,
       "label": "Result settled"
     },
     {
@@ -1094,7 +1094,7 @@
         "bestNightDay": "2026-11-27"
       },
       "XRP 15 Min": {
-        "current": 5,
+        "current": 6,
         "kind": "win",
         "bestWins": 37,
         "bestDay": "2026-11-27",
