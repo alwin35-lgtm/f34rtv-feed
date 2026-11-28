@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T01:00:23.141977Z",
-  "generatedAtMs": 1795827623141,
+  "generatedAt": "2026-11-28T01:00:39.848213Z",
+  "generatedAtMs": 1795827639848,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:23.141977Z",
-      "lastActiveMs": 1795827623141,
+      "lastActive": "2026-11-28T01:00:39.848213Z",
+      "lastActiveMs": 1795827639848,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:23.141977Z",
-      "lastActiveMs": 1795827623141,
+      "lastActive": "2026-11-28T01:00:39.848213Z",
+      "lastActiveMs": 1795827639848,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:23.141977Z",
-      "lastActiveMs": 1795827623141,
+      "lastActive": "2026-11-28T01:00:39.848213Z",
+      "lastActiveMs": 1795827639848,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T01:00:23.141977Z",
-      "lastActiveMs": 1795827623141,
+      "lastActive": "2026-11-28T01:00:39.848213Z",
+      "lastActiveMs": 1795827639848,
       "events24h": 31,
       "runLive": true,
       "callingNow": false,
@@ -317,16 +317,16 @@
       "kind": "desk",
       "score": {
         "wins": 142,
-        "losses": 35,
-        "lastResult": "win",
-        "lastResultAt": 1795826722729
+        "losses": 36,
+        "lastResult": "loss",
+        "lastResultAt": 1795827639719
       },
       "lastPostAt": 1795827301482,
       "noTrade": {
         "count": 66,
         "rate": 52.0
       },
-      "accuracy20": 80.0,
+      "accuracy20": 75.0,
       "callsToday": 4,
       "missed24h": 64,
       "eventsByHour": [
@@ -359,7 +359,7 @@
       "alert": null,
       "lastError": null,
       "lastErrorAt": 0,
-      "heartbeatAt": 1795827301494,
+      "heartbeatAt": 1795827639746,
       "heartbeatState": "posted",
       "webhookQuarantined": false,
       "stale": false
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T01:00:23.141977Z",
-      "lastActiveMs": 1795827623141,
+      "lastActive": "2026-11-28T01:00:39.848213Z",
+      "lastActiveMs": 1795827639848,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T01:00:23.141977Z",
-      "lastActiveMs": 1795827623141,
-      "events24h": 34,
+      "lastActive": "2026-11-28T01:00:39.848213Z",
+      "lastActiveMs": 1795827639848,
+      "events24h": 36,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,8 +457,8 @@
       "callCity": "Shanghai",
       "callAt": 1795827633000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795827605000,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795827634000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
@@ -502,6 +502,13 @@
   ],
   "ticker": [
     {
+      "name": "XRP 15 Min",
+      "cluster": "XRP",
+      "sender": "system",
+      "at": 1795827639719,
+      "label": "Result settled"
+    },
+    {
       "name": "SOL 15 Min",
       "cluster": "Solana",
       "sender": "system",
@@ -544,13 +551,6 @@
       "label": "Result settled"
     },
     {
-      "name": "XRP 15 Min",
-      "cluster": "XRP",
-      "sender": "system",
-      "at": 1795826722729,
-      "label": "Result settled"
-    },
-    {
       "name": "BTC 15 Min",
       "cluster": "Bitcoin",
       "sender": "system",
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 158
+    "events24h": 160
   },
   "schema": 2,
   "weather": {
@@ -1094,8 +1094,8 @@
         "bestNightDay": "2026-11-27"
       },
       "XRP 15 Min": {
-        "current": 9,
-        "kind": "win",
+        "current": 1,
+        "kind": "loss",
         "bestWins": 25,
         "bestDay": "2026-11-27",
         "bestNightWins": 8,
