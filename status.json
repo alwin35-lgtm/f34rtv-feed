@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T14:00:45.213840Z",
-  "generatedAtMs": 1795874445213,
+  "generatedAt": "2026-11-28T14:01:16.327079Z",
+  "generatedAtMs": 1795874476327,
   "theme": "Markets",
   "themeHub": {
     "x": 0.5,
@@ -100,8 +100,8 @@
         "x": 0.35,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:45.213840Z",
-      "lastActiveMs": 1795874445213,
+      "lastActive": "2026-11-28T14:01:16.327079Z",
+      "lastActiveMs": 1795874476327,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -169,8 +169,8 @@
         "x": 0.65,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:45.213840Z",
-      "lastActiveMs": 1795874445213,
+      "lastActive": "2026-11-28T14:01:16.327079Z",
+      "lastActiveMs": 1795874476327,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -238,8 +238,8 @@
         "x": 0.5,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:45.213840Z",
-      "lastActiveMs": 1795874445213,
+      "lastActive": "2026-11-28T14:01:16.327079Z",
+      "lastActiveMs": 1795874476327,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -307,8 +307,8 @@
         "x": 0.4,
         "y": 0.68
       },
-      "lastActive": "2026-11-28T14:00:45.213840Z",
-      "lastActiveMs": 1795874445213,
+      "lastActive": "2026-11-28T14:01:16.327079Z",
+      "lastActiveMs": 1795874476327,
       "events24h": 83,
       "runLive": true,
       "callingNow": false,
@@ -376,8 +376,8 @@
         "x": 0.5,
         "y": 0.25
       },
-      "lastActive": "2026-11-28T14:00:45.213840Z",
-      "lastActiveMs": 1795874445213,
+      "lastActive": "2026-11-28T14:01:16.327079Z",
+      "lastActiveMs": 1795874476327,
       "events24h": 0,
       "runLive": true,
       "callingNow": false,
@@ -440,9 +440,9 @@
         "x": 0.5,
         "y": 0.2
       },
-      "lastActive": "2026-11-28T14:00:45.213840Z",
-      "lastActiveMs": 1795874445213,
-      "events24h": 10,
+      "lastActive": "2026-11-28T14:01:16.327079Z",
+      "lastActiveMs": 1795874476327,
+      "events24h": 11,
       "runLive": true,
       "callingNow": true,
       "doingNow": "Running live",
@@ -457,8 +457,8 @@
       "callCity": "Boston",
       "callAt": 1795874469000,
       "lastError": null,
-      "lastErrorAt": null,
-      "heartbeatAt": 1795874440000,
+      "lastErrorAt": 0,
+      "heartbeatAt": 1795874470000,
       "heartbeatState": "running",
       "lastMessageUrl": null,
       "webhookQuarantined": false,
@@ -570,7 +570,7 @@
     "working": 6,
     "active10m": 5,
     "active24h": 5,
-    "events24h": 342
+    "events24h": 343
   },
   "schema": 2,
   "weather": {
